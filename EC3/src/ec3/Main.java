@@ -39,102 +39,101 @@ import java.util.regex.Pattern;
 
 public class Main {
         public static String baseaddr = new String("http://www8.poli.usp.br");
+        public static boolean getfromnet = true;
+		//get files from net or from the disk?? useful while testing..
         
         public static void main(String[] args) {
-        		boolean getfromnet = true;        	
+        		boolean getfromnet = false;
+        		String result = null;        	
+        		//string used to show information on console
         		String verb = getfromnet?new String("Downloading "):new String("Obtaining from disk ");
-        		
-        		String result = null;
                 List<String> links = new ArrayList<String>();    
-                                
-                System.out.println(verb+baseaddr);
-                result = getPageContents(getfromnet,baseaddr,"/index.html");//false = dont get from Internet, but from HD
                 
+                //PÁGINA INICIAL                
+                System.out.println(verb+baseaddr);
+                result = getPageContents(getfromnet,baseaddr,"/index.html");
+                //ENDEREÇOS DAS DEMAIS PÁGINAS
                 System.out.println("Extracting sessions");
                 populateLinks(links, result);
-                                
-                for(int i=0; i<links.size();i++){
-            	   int size = 1;
-            	   
-            	   //obtain page's id used through out ec3 site links
-                   String session_id= links.get(i).substring(links.get(i).indexOf("id=")+3, links.get(i).indexOf(":"));
+                //OBTÉM AS DEMAIS PÁGINAS
+                for(int i=0; i<links.size();i++){ 
+                	int size;            	   
+                   String session_id = links.get(i).substring(links.get(i).indexOf("id=")+3, links.get(i).indexOf(":"));
+            	   //obtains page's id,which is used throughout ec3 site links architecture
                    
+                   //PÁGINA DO (i+1)-ÉSIMO TÓPICO
             	   System.out.println(verb+"part 1 from session "+session_id+"\t"+baseaddr+links.get(i));
             	   result = getPageContents(getfromnet,baseaddr+links.get(i),"/" +session_id +".html");
             	   
+            	   //QTD DE "CHAMADAS AJAX" NECESSÁRIAS (= size-1, pois se size=1 há apenas a pag. principal do tópico)
             	   size = getMaxParts(result);
             	   
                    result = Formatter.separateComments2(result);
                    
-                   
-                   
-                   for(int j=2;j<=size;j++){
-                	   System.out.println("Downloading part "+j+" from session "+session_id);
+                   //OBTÉM "PARTES AJAX"
+                   for(int j=2;j<=size && j>100;j++){
+                	   System.out.println(verb + "part "+j+ " from session "+session_id);
                 			   
                 	   String sub_result=null;
                 	   //PEGANDO SESSAO
-                	   sub_result = doXhtRequisition(session_id,j);
+                	   sub_result = getAjaxContents(getfromnet,session_id,j);
                        sub_result = Formatter.separateComments(sub_result);
-                       //System.out.println(sub_result);
                                    
-                   		result += sub_result;
-                	   
-                   } 	   
-            	   
+                       result += sub_result;
+                   }           	   
             	   
                    System.out.println("Recording");
                    doRecord( (i+1)+".txt",result);
-               }
-                           
-				               
-                
-                // formata (remove tags)
-                /*System.out.println("Formatting");
-                result = Formatter.noHead(result);
-                result = Formatter.noScript(result);
-                result = Formatter.noTags(result);
-                result = Formatter.breakeLines(result);
-                */
+               }                
+        }        
+        //se fromInternet = true, obtem o conteudo de addr e salva em fname
+        //se fromInternet = false,obtem apenas retorna o conteudo de fname
+        static String getPageContents(boolean fromInternet,String addr,String fname){
+        	String result = null;
+        	if(fname.charAt(0)!='/')
+        		fname="./html/"+fname;
+        	else
+        		fname+="./html"+fname;
+        	
+        	if(fromInternet == false){
+        		result = doFileReading(fname);
+        	} else {
+        		result = doHttpRequisition(addr);
+            	doRecord(fname, result);
+        	}		
+        	return result;
         }
-        static void doRecord(String fname,String result){
-            File file = new File(fname);
-            FileWriter writer;
-            try {
-                    writer = new FileWriter(file);
-                    writer.write(result);
-                    writer.close();
-            } catch (IOException e) {
-                    // TODO Auto-generated catch block
-                    e.printStackTrace();
-            }
-        	
+        //getPagenContents functions receives the file name 'cause that is
+        //used for browsing both the index page and the contents ones
+        //getAjax, however, is used just for one type of requisition, being able to easily make the file name
+        static String getAjaxContents(boolean fromInternet,String session_id,int part){        	
+        	String result = null;
+        	String fname ="./html/"+session_id+"_"+part+".html"; 
+        	if(fromInternet == false){
+        		result = doFileReading(fname);
+        	} else {
+        		result = doXhtRequisition(session_id,part);
+                doRecord(fname, result);
+        	}		
+        	return result;
         }
-        static int getMaxParts(String code){
-        	//strings que iremos avaliar: "<span onclick=\"jcomments.showPage(324, 'com_content', 3);\" class=\"page\" onmouseo"
-        	//a última string desse padrão que acharmos conterá, no lugar de ", 3" , ", x", com x sendo o número de 'partes'
-        	
-        	String t = null;        	
-        	int maxparts = 1;
-        	
-        	//Pattern pattern = Pattern.compile("jcomments.showPage(324, 'com_content', 3)");
-        	Pattern pattern = Pattern.compile("jcomments.showPage\\(\\d+, 'com_content', \\d\\);");
-            Matcher matcher = pattern.matcher(code);
-
-            boolean found = false;
-        	//atualmente, cada link será encontrado 2 vezes:antes dos comentarios e após
-            //anyways, o último encontrar é o que importa;p
-            while (matcher.find()) {
-            	t = matcher.group();
-            	maxparts = Integer.parseInt(t.substring(t.indexOf("', ")+3, t.indexOf(");")));            	
-            	found=true;
-            }
-            if(!found){
-            	//System.out.println("Não rolou");
-            } else{
-
-            }
-            return maxparts;
-        
+        static String doHttpRequisition(String address){
+        	String result=null;
+        	try {
+	                result = Http.httpRequisition(address);
+	   		} catch (IOException e) {	   			
+	               e.printStackTrace();
+	   		}
+        	return result;        	
+        }
+        static String doXhtRequisition(String session_id,int part){
+        	String result=null;
+        	try {
+	                result = Http.xhtRequisition(session_id, part);
+	   		} catch (IOException e) {
+	               e.printStackTrace();
+	   		}
+        	return result;        	
         }
         static void populateLinks(List<String> links, String code ){
         	/*t will denote all contents in the anchor tag ("<a>").
@@ -142,8 +141,7 @@ public class Main {
         	 * this value is added to links list.
         	 * the value of the link parameter id is obtained.
         	 * if the link didnt have an id attribute, then that link was not from the menu of index page's main corpus.
-        	 * therefore, must be removed from links list
-        	
+        	 * therefore, must be removed from links list        	
         	*/        	
         	String t = null;
         	
@@ -168,70 +166,52 @@ public class Main {
             	System.out.println("No match found.%n");
             }
         }
-
-        static String getPageContents(boolean fromInternet,String addr,String fname){
-        	String result = null;
-              	
-        	if(fromInternet == false){
-	            try {	
-	            	File file = new File("./html"+fname);
-	            	String str;
-	            	FileReader reader = new FileReader(file);
-	            	BufferedReader br = new BufferedReader(reader);
-	            	
-	            	while (null != ((str = br.readLine())))
-	            		result += str;
-	            } catch (FileNotFoundException e) {
-					e.printStackTrace();
-				}catch (IOException e) {
-					e.printStackTrace();
-				}
-        	} else {
-        		result = doHttpRequisition(addr,fname);
-        	}		
-        	return result;
-        }
-        static String getSessionSample(){
-        	String result = null;
+        //minimum returned value must be 1
+        static int getMaxParts(String code){
+        	//tipo de strings que iremos avaliar: "<span onclick=\"jcomments.showPage(324, 'com_content', 3);\" class=\"page\" onmouseo"
+        	//a última string desse padrão que acharmos conterá, no lugar de ", 3" , ", x", com x sendo o número de 'partes'
+        	String t = null;        	
+        	int maxparts = 1;
         	
-        	
-	            try {	
-	            	File file = new File("session1.3.txt");
-	            	String str;
-	            	FileReader reader = new FileReader(file);
-	            	BufferedReader br = new BufferedReader(reader);
-	            	
-	            	while (null != ((str = br.readLine())))
-	            		result += str;
-	            } catch (FileNotFoundException e) {
-					e.printStackTrace();
-				}catch (IOException e) {
-					e.printStackTrace();
-				}
-        	return result;
-        }
+        	//Pattern pattern = Pattern.compile("jcomments.showPage(324, 'com_content', 3)");
+        	Pattern pattern = Pattern.compile("jcomments.showPage\\(\\d+, 'com_content', \\d\\);");
+            Matcher matcher = pattern.matcher(code);
 
-        static String doHttpRequisition(String address,String recordname){
-        	String result=null;
-        	try {
-	                result = Http.httpRequisition(address);
-	                doRecord("./html"+recordname, result);
-	   		} catch (IOException e) {	   			
-	               e.printStackTrace();
-	   		}
-        	return result;        	
+           	//atualmente, cada link será encontrado 2 vezes:antes dos comentarios e após
+            //anyways, o último encontrar é o que importa;p
+            while (matcher.find()) {
+            	t = matcher.group();
+            	maxparts = Integer.parseInt(t.substring(t.indexOf("', ")+3, t.indexOf(");")));            	
+            }
+            return maxparts>1?maxparts:maxparts;        
         }
-
-        static String doXhtRequisition(String session_id,int part){
+        static void doRecord(String fname,String result){
+            File file = new File(fname);
+            FileWriter writer;
+            try {
+                    writer = new FileWriter(file);
+                    writer.write(result);
+                    writer.close();
+            } catch (IOException e) {
+                    e.printStackTrace();
+            }        	
+        }
+        static String doFileReading(String fname){
         	String result=null;
-        	try {
-	                result = Http.xhtRequisition(session_id, part);
-	                doRecord("./html"+session_id+"_"+part, result);
-	   		} catch (IOException e) {
-	               // TODO Auto-generated catch block
-	               e.printStackTrace();
-	   		}
-        	return result;        	
+        	try {	
+            	File file = new File(fname);
+            	String str;
+            	FileReader reader = new FileReader(file);
+            	BufferedReader br = new BufferedReader(reader);
+            	result="";
+            	while (null != ((str = br.readLine())))
+            		result += str;            	
+            } catch (FileNotFoundException e) {
+				e.printStackTrace();
+			}catch (IOException e) {
+				e.printStackTrace();
+			}			
+			return result;        
         }
         
         
