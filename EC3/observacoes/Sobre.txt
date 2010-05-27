@@ -1,0 +1,66 @@
+Conteúdo deste arquivo:
+-avalidando a rede de código javascript
+-DOS ARQUIVOS ANEXOS
+-*mais sobre XMLHTTPRequest:
+
+/---------------------------------------
+Problema: descobrir como pegar o que vem pelas requisições AJAX
+Arquivo usado de exemplo: o de definir o perfil de egresso desejado. cujo id é 324
+
+ao se clicar nos botões 2 ou 3´, é disparado o comando:
+	jcomments.showpage(324, 'com_content', 3)
+
+essa função está definida em
+	http://www8.poli.usp.br/components/com_jcomments/js/jcomments-v2.1.js?v=2
+como
+	showPage: function(i,g,p){if(this.form){this.restoreForm();}var l=this.$(this.list_id);if(!l){l=this.$(this.list_id+'-0');if(l){this.list_id=this.list_id+'-0';}}this.busyList();return this.ajax('JCommentsShowPage',arguments);},
+e retorna
+	return this.ajax('JCommentsShowPage',arguments)
+	
+essa função está definida no mesmo arquivo e seus parâmetros, no caso, são
+	parametros:
+		('JCommentsShowPage',arguments)
+		arguments = (324, 'com_content', 3)
+		
+	324:identificação do tópico "definir perfil do egresso desejado"
+	3: foi clicado no numerozinho 3
+	
+O código dessa função é o seguinte:
+
+	ajax: function(f,a,fid){
+		var r,prevURI;
+		try{
+			prevURI=jtajax.options.url;
+			jtajax.setup({url:this.requestURI});
+			r=jtajax.call(f,a,'post',fid);
+			jtajax.options.url=prevURI;
+		}
+		catch(e){
+			jtajax.options.url=prevURI;
+		}
+		return r;
+	}
+
+O  objeto jtajax está definido no mesmo arquivo e é instancia
+da classe jtAJAX, definido no endereço:
+	http://www8.poli.usp.br/components/com_jcomments/libraries/joomlatune/ajax.js
+No caso desse tutorialzinho, está salva com o nome
+	joomlatuneajax.js
+No fim das contas, é usado um objeto do tipo XMLHTTPRequest*
+que manda prum endereço especifico a mensagem
+	jtxf=JCommentsShowPage&jtxa[]=324&jtxa[]=com_content&jtxa[]=3
+Esse tal de xmlhttprequest também seta alguns valores de cabeçalho http
+de modo bem especifico. Para ver mais sobre eles, analisar a classe Http, método xhtRequisition.
+
+/------------------------------------------------
+DOS ARQUIVOS ANEXOS
+324.html - código html a parte inicial do tópico 'definir perfil do egresso desejado'
+324_2.html, 324_3.html - códigos vindos pelas requisições ajax
+difinirperfil.html - semelhante a 324.html, mas com importações redirecionando os links
+	para a web; exceto pelos dois abaixo, que foram downloadados para permitir melhor análise do código	
+jcomments-v2.js - JComments
+joomlatuneajax.js - corresponde ao arquivo http://www8.poli.usp.br/components/com_jcomments/libraries/joomlatune/ajax.js
+/------------------------------------------------
+*mais sobre XMLHTTPRequest:
+http://www.w3.org/TR/XMLHttpRequest/#the-open-method
+https://developer.mozilla.org/en/XMLHttpRequest

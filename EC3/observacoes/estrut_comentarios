@@ -1,0 +1,23 @@
+Os comentários têm a seguinte estrutura:
+
+<div class=\\\"comment-box\\\">\\n
+	<a class=\\\"comment-anchor\\\" href=\\\"\/index.php?option=com_content&amp;view=article&amp;id=324:definir-perfil-do-egresso-desejado&amp;catid=82:ec-3&amp;Itemid=265#comment-118\\\" id=\\\"comment-118\\\">#10<\/a>\\n
+	<span class=\\\"comment-author\\\">Leandro Nobushi Hoshiko<\/span>\\n
+	<span class=\\\"comment-title\\\"> &mdash; Engenharia Química - 2º ano<\/span>\\n
+	<span class=\\\"comment-date\\\">12-04-2010 19:10<\/span>\\n
+	<div class=\\\"comment-body\\\" id=\\\"comment-body-118\\\">Formação generalista, mas meor carga teórica das disciplinas do biênio e maior nas matérias de engenharia de fato.<\/div>\\n
+<\/div>
+
+O exemplo acima é para arquivos obtidos por ajax.
+Nos comentarios das paginas iniciais de cada topico, esses \\\ n existem.
+Por isso que por enquanto (27/maio/10) há 2 funcões separateComments.
+Algo interessante e simples seria unificá-las.
+
+
+COMO OBTÊ-LOS FAICLMENTE?
+O método que achei mais simples foi o de usar expressões regulares para
+selecionar iterativamente coisas q estão entre <div class="comment-box" e
+"</div>\n</div>" (denovo, a representação desses limites varia no caso de requisições ajax).
+
+A seguir, basta usar algo semelhanta à antiga noTags para se obterem linhas
+contendo id do comentario, nome, comentario etc.
