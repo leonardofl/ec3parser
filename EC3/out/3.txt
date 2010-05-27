@@ -1,0 +1,174 @@
+
+#25
+Phillip M. S. Burt
+ &mdash; Professor Associado - EPUSP
+26-05-2010 08:18
+Discordo do Felipe (comentário #24). Como vestibular que influi consideravelmente no perfil dos ingressantes tome o ITA por exemplo. Não é uma questão de recursos.
+
+#24
+Felipe Pait
+ &mdash; Eng elétrico - professor da Poli
+16-05-2010 17:42
+O ensino médio é o que é. A Poli não tem recursos nem para pensar em mudar. Achar que vamos mudar o perfil dos alunos mudando as "nossas" regras do vestibular não chega nem a ser uma ilusão. Os bichos são heterogêneos, é uma fato com o qual temos que conviver.
+A ideia de nivelar os alunos ensinando conteúdos idênticos para todos no primeiro ano desanima os mais preparados (que acham o biênio pouco desafiador) e os menos preparados (que sofrem para passar). O currículo inflexível e homogêneo dos primeiros anos é O motivo principal - eu diria o único motivo importante - pelo qual o biênio é tão pouco apreciado por alunos e professores.
+
+#23
+Eric Omine
+ &mdash; Engª Elétrica (Telecomunicações)
+13-05-2010 17:34
+Concordo em quase tudo com a colocação #22. Concordo que a escola deva exigir mais do que simples assimilação. Na minha visão, o pior problema da Poli hoje é esse: um ensino mecanizado, em que o aluno pode simplesmente decorar fórmulas e esquecê-las no dia seguinte - um hábito que é herança do ensino médio e de cursinhos pré-vestibular, em que a regra é dar tudo "mastigado" para o estudante. A Poli precisa impor um ritmo oposto a esse.
+Discordo, porém, um tanto do final. O que a escola realmente deve incentivar não é o autodidatismo, mas a curiosidade, a descoberta e o raciocínio. O autodidatismo seguirá.
+Digo isso, porque do jeito que é hoje, a escola muitas vezes já incentiva o autodidatismo, mas de uma maneira que considero não saudável: a aula é ruim, ou talvez simplesmente igual ao livro, então o aluno prefere estudar sozinho. O problema é que, com o tempo, a falta de suporte da escola nesse sentido pode levar o aluno ao desgaste (um dos problemas identificados por Paulo Blikstein em seu famoso texto "A Escola dos Homens Tristes", de 1997 - 
+alumni.media.mit.edu/.../...
+ ). Além disso, é evidente que o comportamento conformista, tanto da escola como do estudante de se conformarem com esse tipo de coisa não faz jus ao trabalho do engenheiro. O engenheiro deveria solucionar problemas, e não "fazer de conta que não viu" ou achar que o problema é a solução.
+Concordo com o profº Phillip. Se o vestibular não garante que os ingressantes tenham certos conhecimentos, então a escola deveria fornecê-los. A minha dúvida é, quem passaria por nivelamento? Na minha opinião, todos deveriam passar pelo nivelamento, e esse nivelamento deveria ser mais do que simplesmente fornecer mais base matemática, mas também acostumar os estudantes com um método de estudo mais heurístico, menos mecanizado, um nivelamento para que os estudantes deixem essa bagagem do ensino médio/cursinhos para trás.
+
+#22
+Thomas C. G. de Vilhena
+ &mdash; Engenharia Elétrica - Ênfase em Sistemas Eletrônicos (4º ano)
+04-05-2010 23:00
+Reconhecida nacionalmente como modelo no ensino da engenharia, a EPUSP não deve se adequar às mudanças no ensino médio do Brasil, ao contrário, deve impor tendências pedagógicas.
+Uma faculdade que busca formar "Engenheiros e Líderes" precisa demonstrar liderança, precisa exigir de seus alunos mais do que a simples assimilação de conteúdo, precisa despertar o autodidatismo.
+
+#21
+Phillip M. S. Burt
+ &mdash; Professor Associado EPUSP
+29-04-2010 12:58
+Me parece claro que neste momento temos que agir nas duas frentes: no curto prazo oferecer cursos de nivelamento para suprir lacunas do ensino médio e no médio e no longo prazo, atuar em prol de uma melhor formação matemática e científica no ensino médio, com a devida cobrança no vestibular.
+
+#20
+José Carlos Mierzwa
+ &mdash; Professor Associado EPUSP
+26-04-2010 07:40
+Na minha visão, as escolas de ensino médio, principalmente particulares, passaram a desenvolver os seus conteúdos com um enfoque nos vestibulares, mesmo que os conteúdos e a forma de apresentação tenham sido alteradas ao longo do tempo. A questão do ensino médio em escolas públicas é outra história, pois houve uma degradação acentuada da sua qualidade a partir da década de 1980. Neste caso, acho que a Universidade, seja ela qual for, tem um papel significativo na cobrança por uma melhoria da qualidade do ensino médio de qualquer escola, principalmente com a adoção de posições claras sobre os conhecimentos mínimos a serem adquiridos nesta fase do ensino, para que na Universidade sejam priorizados os aspectos necessários para a formação de engenheiros. Um caminho que parece ser equivocado é o da adoção de cotas para o ingresso nas Universidades. Resumindo, a Escola Politécnica deve, em parceria com outras unidades da USP, deve buscar formas de colaborar com os governos estaduais e federal para encontrar soluções para o aprimoramento do ensino, não apenas do nível médio, mas também do fundamental. Em relação ao fato da EPUSP levar em conta as alterações que ocorrem no ensino médio, acredito que isto não ocorra, o que ocorre em geral é o contrário, as escolas de ensino médio procuram se adaptar àquilo que é exigido nos vestibulares, não apenas da USP, mas de qualquer outra Universidade.
+
+#19
+Marcelo Bruno
+ &mdash; Engenheiro Elétrico e Mestre (EPUSP), Doutor (Carnegie Mellon University), atualmente Professor do Instituto Tecnológico de Aeronáutica (ITA)
+24-04-2010 07:59
+O fato é que o ensino médio no Brasil é fraco quando comparado aos países ditos desenvolvidos. Por exemplo, na Europa (Inglaterra, Alemanha, etc.), é literalmente impossível um aluno ingressar na faculdade de engenharia sem ter cursado no ensino médio o equivalente ao nosso Cálculo I e até um pouco mais (por exemplo, o básico de sequências/séries e equações diferenciais elementares). Nos EUA, as exigências mínimas para se formar na "High School" são baixas (menores até do que no Brasil), mas quase todos os alunos que entram em algumas das "top schools" de engenharia (p.ex. MIT, Stanford, Caltech) têm "AP classes" no ensino médio que cobrem por exemplo cálculo. 
+Ou seja, o aluno brasileiro geralmente entra então na faculdade de engenharia com um semestre pelo menos de atraso em matemática e física quando comparado aos europeus e à elite americana. Como se isso não bastasse, existe ainda o agravante de que o pouco que é ensinado aqui é cada vez menos cobrado no vestibular. 
+Em uma mensagem neste fórum, alguém mencionou por exemplo que os professores de AlgeLin na Poli deveriam fazer primeiro uma "revisão de teoria de determinantes". Ora, no meu tempo de vestibulando, determinantes era um assunto corriqueiro na segunda fase da Fuvest, como eram também polinômios e números complexos, que, hoje em dia, praticamente não aparecem mais no vestibular.
+Uma das grandes desvantagens da Poli em relação ao ITA por exemplo é justamente não ter controle sobre o próprio vestibular, a cargo da Fuvest, que tem que atender também aos interesses dos outros cursos de graduação. 
+Naturalmente eu não estou sugerindo que a Poli saia da Fuvest e faça um vestibular isolado, o que seria inviável no curto prazo. Acho porém que os representantes da Poli nos colegiados universitários deveriam mais pró-ativos no sentido de se opor a certas tendências no vestibular da Fuvest (como a reforma do ano passado) que, na minha modesta opinião, têm prejudicado a escola na seleção dos seus alunos.
+
+#18
+Guilherme Garcia
+ &mdash; Aluno da graduação em Eng. Elétrica
+21-04-2010 16:40
+Ignorar um problema não é a melhor forma de resolvê-lo. Todos nós sabemos que o problema existe. E, como dito em #9, eu penso que a iniciativa deve vir da EP.
+
+#17
+Rafael Simoes
+ &mdash; aluno-automacao e controle
+20-04-2010 13:22
+A arrogancia e o leitismo de alguns colegas me assustam. Nao da mais para acreditar na falacia de que quem passou no vestibular está preparado. A Escola oferece 750 vagas, e a concorrencia diminui a cada ano ( o que é um outro problema).Eu mesmo passei na primeira chamada, na única vez que prestei o vestibular, sem saber absolutamente nada! Nao podemos assumir a exceçao com regra e achar que todo mundo estudou no Bandeirantes, e enquanto o aluno que entrou justamente está tomando pau em Alg Lin e Calc II, está gerando custo para o Estado e piorando os indicadores de eficiencia da Escola. Nada mais justo que ajudá-lo a superar (pelo próprio esforço) essas dificuldades iniciais, através de optativas introdutorias, tutorias ou monitorias.
+rafael.simoes
+poli.usp
+.br
+
+#16
+Andréa Haritçalde
+ &mdash; aluna 3 ano eng. civil POLI
+20-04-2010 11:45
+Em termos de aproveitamento de conteúdo, o vestibular cumpre seu papel de selecionar aqueles que tem as ferramentas apropriadas para conseguirem "levar" o curso
+havendo apenas um inicial choque quanto à exigência das provas na faculdade em contrapartida às do ensino médio.
+Mas em termos de forma de aprendizado, infelizmente, a POLI acaba por adotar quase o mesmo tipo de geração e aproveitamento de conhecimento que o do ensino médio. Ao chegar e permanecer na POLI, assim como no ens. médio, o aluno vê que existe uma grande diferença entre entender o conteúdo, passar na prova e interiorizar o aprendido. Ou seja, acaba adotando o mesmo modelo de reprodução de informações sem digestão, onde ao passar na prova imediatamente se esquece o que havia aprendido.
+A POLI deveria, portanto, ir de encontro a formação do ensino médio propondo disciplinas pensantes e intelectualmente desafiadoras (diferentemente de desafiadoras apenas em suas provas) através da pluralidade de avaliações e métodos didáticos mais construtivos que apenas a boa e velha aula expositiva. 
+Ou seja, cabe à POLI quebrar o paradigma da forma de aprender do ensino médio.
+
+#15
+Rafael
+ &mdash; Estudante
+19-04-2010 16:51
+Considerando que o Ensino Médio busca, nos dias atuais, ser mais genérico do que específico (prestigia-se áreas de conhecimento - Linguagens, Ciências Humanas e Ciências da Natureza - em vez de disciplinas específicas), o que, a meu ver, é acertado, penso que a EPUSP deverá dedicar maior cuidado às ciências básicas, com a instituição de um ciclo básico sofisticado. Deve-se levar em conta que o ingressante não seria um especialista em ciências exatas (mas talvez apenas tenha maior afinanidade com estas), pois a formação secundária seria generalista.
+Assim, penso que a instituição de um ciclo básico, tal como concebido na PUC Rio (diga-se de passagem, uma instituição competente no ensino de Engenharia) seria ideal: três ou quatro semestres básicos, com a existência de 3 currículos: Currículo 0 - parte das noções elementares a fim de suprir lacunas, destinado a alunos com menor rendimento nas provas de ciências exatas do Vestibular; Currículo 1 - é o padrão, destina-se à maioria dos alunos, que tiveram desempenho esperado; Currículo 2 - para alunos que superaram as expectativas e demonstraram ter conhecimentos de Física, Matemática e outras disciplinas acima da média. Acho que a adoção de currículos diferenciados (mesmas disciplinas, com abordagens diferentes) garantirá o interesse do aluno, pois, aquele com dificuldade terá suas carências atendidas com o currículo 0, já o aluno 'superdotado' não será desestimulado haja vista o enfoque avançado da abordagem da matéria. A adoção do ciclo básico na PUC Rio auxilia muito, também, na internacionalização do ensino, sobretudo na possibilidade de duplo diploma. O ciclo básico, na minha opinião, garante uniformização e coesão ao ensino científico (poderia até ser compartilhado por alunos dos cursos de Física, Matemática e Computação), sendo que as disciplinas especifícas de habilitação e ênfase na Engenharia devem ser trabalhadas após a aquisição do conhecimento técnico geral (isso mais ou menos já é feito hoje na EPUSP).
+
+#14
+Rafael Pires Barbosa
+ &mdash; Eng. Naval
+19-04-2010 16:02
+A Poli deve ser completamente insensível a quaisquer dificuldades no ensino médio. Pode soar politicamente incorreto, mas se temos a meta de ser uma escola de engenharia de ponta, devemos ter independência para estabelecer nossos próprios critérios. Se é esse o objetivo, não podemos ser hipócritas e aceitemos que esse é o único caminho a seguir.
+
+#13
+Leonardo
+ &mdash; Estudante Eng. Elétrica
+17-04-2010 20:17
+Primeiramente, considero que a relação com o conhecimento na universidade é diferente da mesma no ensino médio. Na universidade é exigido um grau de autodidatismo bem maior devido a diferença de didática entre os professores e diversidade de bibliografias. Isso geralmente é um choque para o estudante, que geralmente supera mas deve ficar um pouco desestimulado a fazer o curso. Talvez aulas de reforço ou monitorias (por mais tempo e mais divulgadas) ajudassem a resolver o problema.
+
+#12
+Sérgio de Paula Pellegrini
+ &mdash; Engenheiro Mecânico/2009
+16-04-2010 00:36
+Pergunta difícil.
+Acho que é importante ter muito claro o que se espera de um calouro recém-chegado. Em termos de conteúdo e de postura.
+Acho que isso tem que ficar claro não apenas entre os docentes, mas também entre os bixos mesmo.
+
+#11
+Paul J. E. Jeszensky
+ &mdash; Professor Titular da EPUSP
+15-04-2010 22:04
+Resposta à mensagem #10. Prezado Gabriel,
+A questão quer tratar da preparação prévia dos ingressantes. Os alunos que ingressam hoje na EPUSP comparam-se como em relação aos ingressantes de 1999 (início da EC-2)? O que mudou no Ensino Médio ao longo desses anos? O que a EPUSP fez, ou deveria ter feito, para essa mudança se ela de fato ocorreu?
+
+#10
+Gabriel Alves
+ &mdash; Engenheiro Químico/ POLI
+14-04-2010 19:01
+Que tipo de mudanças? não ficou muito claro..
+obrigado
+
+#9
+Paul J. E. Jeszensky
+ &mdash; Professor Titular da EPUSP
+13-04-2010 13:23
+A partir de seu ingresso o aluno é um politécnico, independentemente de onde veio e de sua formação, portanto é um problema nosso! Assim, detectada alguma lacuna na formação dos ingressantes devemos encará-la como um desafio e oferecer cursos de nivelamento (por cima, não por baixo!) como Fisíca-0, Cálculo-0 etc.
+
+#8
+Ricardo H Gracini Guiraldelli
+ &mdash; Engenheiro de Computação e Mestrando
+12-04-2010 22:50
+A responsabilidade do conteúdo a ser ensinado no Ensino Médio não deve ser repassado para a instituição de Ensino Superior. Contudo a EPUSP poderia *estimular* uma postura dos alunos e das instituições discentes (grêmio, atlética, CAs) para que esses fizessem um "curso de nivelamento", optativo e sem custo, nas primeiras semanas para que os alunos pudessem ser melhor preparados para o conteúdo dos primeiros anos.
+Há conteúdo demasiado, já, que a EPUSP deve focar: tentar resolver os problemas do Ensino Médio não é responsabilidade desta instituição.
+
+#7
+Marcos
+ &mdash; Eng. Civil POLI/2000
+12-04-2010 21:36
+O conhecimento teórico básico e o desenvolvimento de raciocínio e da capacidade de aprender são responsabilidades do Ensino Médio. Pode-se criar cursos com os próprios alunos de graduação para dar reforço àqueles ingressados que têm deficiências ou dificuldades nos conceitos básicos. Isso por meio de uma parceria com o Grêmio, por exemplo. Não acho que o nível do ensino, especialmente no ciclo básico (biênio), deva ser inferior por qualquer razão.
+
+#6
+Bruno G.
+ &mdash; Eng civil
+12-04-2010 21:18
+Não.O nivel de seleção é rigoroso para EPUSP, e qualque aluno da escola já tem a bagagem do ensino media solida.Algumas materias repetem oque foi passado no ensino medio e isso desistimula o aluno que quer aprender algo novo,materia de faculdade.
+
+#5
+Renato Naville Watanabe
+ &mdash; Engenharia Elétrica-Automação e Controle
+12-04-2010 20:37
+O estudo da engenharia requer conhecimentos básicos prévios, portanto não se deve fazer mudanças nesse sentido. O ensino médio é que deve fornecer de alguma forma esses conhecimentos.
+
+#4
+Luciano
+ &mdash; Eng. Mecânica
+12-04-2010 18:48
+Eu acho que a poli deve se manter como está nesse aspecto. Contar que os estudantes do ensino médio já saibam as matérias do ensino médio para tentar nivelar os alunos por cima e não por baixo. Se for o caso, oferecer aulas de reforço no começo do curso para os estudantes que sentirem necessidade(mas fora do curso comum, talvez como monitoria).
+
+#3
+Estevão
+ &mdash; eletrica 2 ano
+12-04-2010 18:11
+O ensino medio tem que preparar o candidato ao ingreso na universidade e fornecer uma visão geral de mundo, a poli poderia incluir em sua grade, ou como extra curriculares, projeto s como o poli cidadã
+
+#2
+Felipe Rinaldi de Campos
+ &mdash; Eng. Computação
+12-04-2010 17:13
+Exigir um conhecimento mínimo de todos os alunos sem restrições, independente de critérios alternativos de acesso impostos pela universidade
+
+#1
+Rafael Marin Herrera
+ &mdash; Estudante
+12-04-2010 16:25
+O ensino médio tem muitas falhas, acredito que a EPUSP deve se manter firme no que os alunos teoricamente deveriam saber no ensino médio, mesmo que isso as vezes cause problemas. Não devemos diminuir o nível da escola e sim incentivar as escolas de ensino médio a subirem o nível se a discrepância for grande.

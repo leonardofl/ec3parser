@@ -1,0 +1,400 @@
+
+#53
+José A. Lerosa de Siqueira
+ &mdash; professor PEF
+27-05-2010 10:47
+A formação do profissional bem sucedido do século 21, seja ele engenheiro ou não, terá a forma de um T. Deverá ser ao mesmo tempo especialista, com a verticalização do conhecimento em alguma área específica de conhecimento técnico, e generalista, com a horizontalização da sua capacidade de articular-se com outros profissionais que complementem sua capacidade de agregar valor à sua empreitada. 
+Adicionalmente no caso do engenheiro, ele precisará desenvolver a sua capacidade única de engenhar, isto é, a par dos recursos disponíveis, conceber cenários futuros possíveis de serem concretizados de modo a aproveitá-los ao máximo. Esta dimensão adicional é o que chamamos de empreendedorismo.
+
+#52
+monacer ericson da silva
+ &mdash; engenharia de telecomunicações - 4º ano
+27-05-2010 00:52
+Em relação ao comentário 34: sobre o fato da discussão sobre generalista/especialista recair exclusivamente sobre as disciplinas do ciclo básico, discordo da necessidade desse caminho único. Concordo que as disciplinas devem ser reformuladas, mas acho que tais mudanças não deveriam vir sozinhas.
+O que avalio como ainda mais importante do que o currículo do engenheiro, seria a postura do aluno dentro da Poli para se formar como engenheiro. Os métodos de avaliação são frouxos e induzem à preguiça. As aulas são desmotivadoras em sua maioria. Tem-se muitas vezes a impressão de que alunos e professores não se entendem, mas ainda assim parece que existe um pacto mútuo do tipo: um finge que ensina, os outros fingem que aprendem e está todo mundo de acordo.
+O curso deveria retirar a postura típica de cursinho, que muitas vezes se percebe ao longo da graduação. Deveria-se mostrar para o que a engenharia se propõe. Independente do perfil que se deseje, generalista ou especialista, creio que o que você faz deve sempre estar integrado, não apenas visando à simples coesão curricular, mas orientando seu raciocínio a estabelecer sempre relações entre os objetos de estudo. 
+Considero que um curso que seja integrado e exigente permite ao aluno desenvolver técnicas de percepção e solucionamento de problemas muito mais condizentes com o perfil de um engenheiro. Mas seria necessário também (mas não apenas isso) estruturar as aulas de modo a não se prender aos simples conceitos colocados na lousa, que aliás podem ser vistos em algum livro, ou mesmo em notas de aula xerocadas, portanto, na maioria das vezes, conteúdo redundante. 
+Acho que a meta seria a busca de uma visão do aprendizado não mais como uma simples busca por conhecimento, mas como uma contínua reciclagem e filtragem dos conceitos adquiridos, agregando mais valor ao que se aprendeu, ampliando desse modo seu repertório de informação requintada.
+
+monacer.ericson
+gmail.com
+
+#51
+Douglas M. Veronez
+ &mdash; Engenharia Eletrica - Sistemas Eletrônicos (4º ano)
+26-05-2010 17:09
+Eu concordo com o que o Rafael Simoes (mensagem 34) disse em relação à escolha da GA direto no vestibular. Uma escolha assim é precoce e acredito que DESMOTIVA o aluno a receber uma formação generalista.
+Uma das coisas mais interessantes na Poli foi o fato de não precisar escolher nenhuma Engenharia, eu tinha preferências, e muitas dúvidas, gostava de civil e queria conhecer mais sobre mecatrônica. Acabei indo fazer Elétrica e estou muito satisfeito com essa opção.
+Poder escolher o curso depois de já estar dentro da Poli me ajudou a fazer uma escolha mais consistente e madura.
+Concordo também com a idéia das disciplinas de projeto e do Orientador de graduação, que o Rafael citou.
+ Em relação a questão principal da discussão, acho importante que o engenheiro tenha uma noção ampla, mas é pretenção demais formar um Engenheiro Mecânico que entenda de química, civil e elétrica, por exemplo. Acredito que no biênio deveriam estar alocadas matérias de todas as áreas, e somente no biênio, o aluno teria contato com alguns conceitos de todas as engenharias e descobriria aquela que o agrada mais.
+ Em seguida deveria haver um módulo comum em cada GA, onde o aluno receberia formação generalista dentro de uma determinada área (civil, elétrica, química ou mecânica).
+ O 2 últimos anos do curso devem ser mais específicos, com boa parte dos créditos destinados a optativas, o aluno com o auxílio de um Orientador poderia se dedicar às matérias que ele acredita serem mais iportantes para o tipo de professinal que deseja ser.
+ Para completar, ao longo de todo o curso poderiam existir matérias de humanas para ajudar a formar um cidadão consciente e ético que possa contribuir para o bem coletivo além de algumas optativas livres.
+
+#50
+Bruno Meneguim
+ &mdash; 2º ano Civil
+22-05-2010 02:34
+Acredito que uma das principais funções desempenhadas pela Escola Politécnica hoje deve ser justamente lapidar o aluno que entra na universidade. O ideal seria que o aluno entrasse especialista, uma vez que o ensino médio por mais que hajam modificações, ainda é técnico. Um curso como o da Poli também não deixa de ser técnico, todavia, cabe à Poli discernir as formas de equilibrar um ensino com uma base técnica tradicional, como sempre manteve, e ao mesmo tempo, moldar o aluno de tal forma que ele consiga ter a visão ampla que o mercado hoje demanda. De nada adianta formarmos técnicos, precisamos de Politécnicos para o desenvolvimento do país. Engenheiros e Líderes que sejam capazes de enxergar os problemas do cotidiano de uma forma generalista, capacidade que foi aprimorada justamente no período em que frequentaram a EPUSP.
+
+#49
+monacer ericson da silva
+ &mdash; engenharia de telecomunicações - 4º ano
+18-05-2010 21:46
+Em relação ao post 48, a proposta de uma nova abordagem diante dos problemas propostos pela engenharia, ou seja, ter acesso a informações que permitem enxergar possibilidades, é sedutora. E de fato entendo que as disciplinas básicas deveriam preencher de certo modo esse quesito, estabelecendo conexões interessantes entre circuitos e tubulações, por exemplo. Desse modo elas teriam um apelo "generalista" que estaria intrinsecamente ligado à didática de um curso de engenharia mais amplo.
+Mas um dos problemas que percebo é que, em disciplinas básicas como Mecânica das Estruturas e Mecânica dos Fluídos (para a elétrica), todo mundo passa sem saber muita coisa. Portanto seria mentiroso chamar-se de generalista um curso que simplesmente acrescenta determinadas disciplinas em seu currículo mas que na prática se mostram moedas falsas, pois não acrescentam muita coisa (ou nada) à minha formação.
+Quanto à questão de disciplinas como bioquímica, concordo nas possibilidades didáticas e práticas que ela poderia trazer. Um dos inconvenientes que vejo seria o seguinte: para ver possibilidades eu teria de estudar especificidades que talvez ofuscassem a parte interessante devido à incoerência com o currículo que desejo.
+Eu acho que deveria haver orientação aos alunos no final de cada semestre, apresentando um quadro do que eles veriam pela frente, de modo a poderem ter opção de escolha, auxiliando-os a perderem determinados preconceitos e redefinindo, quem sabe, suas prioridades. 
+Se esse tipo de raciocínio for levado a sério, o antagonismo entre generalista x especialista perderia parte de sua força.
+
+monacer.ericson
+gmail.com
+
+#48
+Marcus Vinicius
+ &mdash; Eng. Ambiental
+18-05-2010 11:29
+Sobre o comentário 47, acerca da necessidade de disciplinas de Mecânica do Contínuo e Bioquímica: a mecânica do contínuo rege, em linhas gerais, várias das disciplinas que temos no curso, como Resistência dos Materiais e Mecânica dos Fluídos, que são ministradas para todos os cursos. A disciplina de Bioquímica tem muito a agregar às áreas da engenharia. O entendimento dos processos biológicos básicos, que explicam vários fenômenos, estão se tornando fundamentais para os engenheiros, que a cada dia mais buscam inspiração na biologia para resolver problemas técnicos (recomendo o tema biomimetismo, muito interessante). Apenas para concluir, acho que a discussão sobre o que devemos ter como básico deve focar em quais são as disciplinas que desenvolvem habilidades novas para os estudantes, como novas formas de pensar ou abordar os problemas. Apenas para título de exemplo, Circuitos elétricos e Hidráulica de tubulações têm muito em comum, como a mesma metodologia de resolução. Não seria interessante se ensinar isso apenas uma vez, desenvolvendo a habilidade pessoal, e não como duas coisas distintas?
+
+#47
+monacer ericson da silva
+ &mdash; engenharia de telecomunicações - 4º Ano
+16-05-2010 22:48
+Para iniciar, uma sugestão: acho interessante àqueles que postam seus comentários lerem os anteriores e, se possível, confrontarem opiniões de modo a sintetizar tudo o que foi colocado em questão. Desse modo nos aproximaríamos mais da construção, senão de uma solução, pelo menos de opiniões mais embasadas, estruturando melhor alguma proposta. 
+ Nas opiniões 4, 10, 13 (e outras) abordou-se alguns problemas do biênio. Para complementá-las digo que percebo o biênio (e, em certos aspectos, o restante do curso) como um ato de fé. Ou seja: acredite a todo custo que vai servir para alguma coisa. Eu entendo essa postura como algo pernicioso, no sentido de que essa bitolação pode se tornar uma constante no restante da graduação, principalmente porque na Poli existe o eterno aprendizado visando sempre às mesmas provas. 
+ O aluno deve sempre se perguntar o porquê. Mas para que isso ocorra é necessário que a Poli estruture de outro modo o seu ensino, para que o aluno se aperceba disso.
+ Essa história de um curso generalista, a meu ver só faz sentido se houver continuidade, se não for desse modo esse conhecimento seria uma ilha perdida no oceano. Assim como já foi colocado nas opiniões 25 e 27. É por isso que discordo de parte da opinião 22. Ter disciplinas semestrais de mecânica do contínuo, bioquímica, não faz sentido nenhum para minha área de atuação. A não ser que alguém me prove o contrário. O mesmo não posso dizer sobre determinadas disciplinas da área de humanas, no sentido que eu exercerei uma profissão que tem uma função dentro da sociedade, portanto nosso curso não deveria ser visto como uma finalidade em si mesmo.
+ Mas eu não recuso as matérias básicas. Estas deveriam fornecer as regras que orientam seu raciocínio no sentido do correto, permitindo pisar em solo firme. Curiosamente só me dei conta disso fora da sala de aula com o professor João Kogler (PSI), que não é matemático: ele perguntou para mim e outros alunos o porquê da existência do polinômio de Taylor e a partir disso tentar deduzi-lo sem nenhuma formalização. Ninguém soube o que fazer. Ele explicou do modo mais intuitivo possível. Ou seja, colocou o problema em termos práticos, apelando para a intuição. Aprendemos de modo subtendido que a engenharia sempre visa a um objetivo prático. Depois disso fica mais fácil calcar o rigor necessário e chegar a generalizações.
+
+#46
+Felipe Pait
+ &mdash; Eng Elétrico - professor da Poli
+16-05-2010 07:52
+Me parece que há um quase consenso de que os currículos da Poli deveriam ser mais flexíveis, evitando a especialização precoce. Cada estudante individualmente deve ter maior liberdade na escolha das disciplinas a cursar, e a especialização começar já antes do vestibular é um absurdo. 
+Fico muito satisfeito em ler aqui propostas que defendo há pelo menos 15 anos, e que nos conselhos e congregações caminham na base de uma passo para frente, dois para trás.
+
+#45
+Erlei Moreira
+ &mdash; Engenheiro Mecânico
+15-05-2010 15:06
+Erlei Moreira; contato: 
+erlei
+erlei.com
+.br 
+A graduação deve ser mais generalista. Depois, os graduandos escolhem uma progressão vertical e se especializam ou optam pela horizontal, utilizada pelo profissional que se sente estimulado pelo “novo�? já que paradigmas “zerados�? injetam maiores doses de adrenalina nas vivências. 
+E acrescento mais! As nossas Universidades têm preparado os seus graduandos muito bem, tecnicamente, dentro da área do curso escolhido. Mas têm feito muito pouco, ou nada, para o DESENVOLVIMENTO PESSOAL DO FORMANDO. Mostrando-lhes, por exemplo, como funcionam as pessoas, as empresas e os mercados. Quem se gradua e entra no mercado de trabalho é como se fosse jogado(a) aos leões, na arena da vida profissional, cujas regras de funcionamento o(a) graduando(a) só vai entender anos depois. E o que ele(a) aprende depois de muito sofrimento é, entre outras coisas, que "o sucesso pessoal e profissional da pessoa tem muito mais a ver com a sua capacidade de se comunicar e de se relacionar do que por qualquer estoque de informações específicas que essa pessoa possa ter sobre qualquer área do conhecimento humano". Esse conhecimento adicional, lastreado no perfil comportamental do graduando, as nossas Universidades poderiam oferecer. Já existem conhecimentos científicos sobre a área comportamental humana que as Universidades já poderiam estar aplicando. Mas esse é um paradigma que já está a caminho da nossa consciência mas ainda não chegou e as Universidades, as empresas e os mercados ainda não perceberam.
+
+#44
+Cristiano Panazio
+ &mdash; Professor Doutor
+13-05-2010 10:29
+A formação deve ser a mais generalista possível e deve-se tomar ao pé da letra que a principal função da graduação é fazer com que o aluno aprenda a aprender. A especialização deveria ficar restrita a um conjunto de disciplinas optativas, que, inclusive, deveriam valer também para o mestrado, do mesmo modo como é feito em grandes universidades americanas (coterminal em Stanford e MIT, ou, num exemplo mais próximo, a Engenharia Elétrica da Unicamp). Ainda, creio que com a redução da especialização, haveria maior espaço para uma redução dos créditos e/ou a ampliação da formação básica dos alunos (matemática e fundamentos básicos de cada engenharia).
+
+#43
+Thiago André Ferreira Medeiros
+ &mdash; Engenheiro Eletricista/Engenheiro de desenvolvimento de Produto Embraer
+11-05-2010 09:36
+A formação generalista que recebi na Poli foi muito importante quanto à área que resolvi seguir, pois trabalho com software embarcado, necessitando trabalhar com conceitos de eletrônica, controle e mecânica, mais especificamente aerodinâmica, entre outros.
+Acredito que a formação de especialista surge conforme o tempo, mas a maior necessidade que eu vejo para entrar na área em que trabalho é realmente a de generalista com capacidade de trabalhar com sistemas especialistas.
+Quanto à escolha da engenharia no vestibular, sou contra, pois quando prestei o vestibular, gostaria de cursar mecatrônica, porém com o desenvolver do curso, aprendi a gostar mais de Controle e Automação, que foi a habilitação na qual me formei em Elétrica. Caso tivesse escolhido o curso no vestibular, talvez me sentisse desmotivado quanto ao curso por falta de conhecimento em relação ao mesmo, pois somente na universidade temos o real conhecimento do que vem a ser cada engenharia.
+
+#42
+Celso Tooru Anraku
+ &mdash; Engenharia Civil 6° ano
+10-05-2010 22:43
+Sou aluno de sexto ano da engenharia Civil. Entrei na poli querendo engenharia mecânica e estou pra me formar em engenharia Civil. A Engenharia Civil é uma área muito ampla envolvendo diversas áreas técnicas, sendo que a sua atuação no mercado traz impactos diretos à sociedade, portanto, aprovo a formação generalista. A especialização começa com estágios, e com o amadurecimento do aluno com a área em que atua, cada um deve ser capaz de encaminhar o próprio foco de formação com optativas e pós graduação.
+
+#41
+Andrei Rosental Buarque de Gus
+ &mdash; Eng Ambiental - 4° ano
+08-05-2010 17:57
+Como dito anteriormente, creio que deve ser feita uma reavaliação do que se entende como conhecimento básico para uma formação REALMENTE generalista no biênio, o que não ocorre atualmente. No 2° ano da Eng Ambiental por exemplo, são lecionadas matérias de áreas muito específicas como Física das Construções e Eletrotécnica e matérias que agregam alunos da ambiental e da civil e de caráter mais generalista como Economia, Administração de Empresas e Hidráulica são dadas nos anos seguintes. Creio que deveria ser aumentado o número de anos da graduação para possibilitar o aluno de cursar mais matérias optativas nos últimos anos, preparando-o melhor para uma formação específica da área de conhecimentio que mais lhe agrade.
+
+#40
+Fernando Mantelatto
+ &mdash; Mecatrônica 3º ano
+05-05-2010 14:06
+Creio que a escolha de qual engenharia o estudante cursará no vestibular seja precoce, pois este ainda não tem conhecimento o bastante sobre essas áreas e muito menos maturidade. Por isso defendo a escolha da engenharia no decorrer do curso, de forma que o estudante tenha mais conhecimento da atividade que irá exercer antes de escolhê-la.
+
+#39
+Carlos Eduardo K Mady
+ &mdash; Engenheiro Mecânico/2009
+05-05-2010 10:37
+Concordo com o que foi dito anteriormente, sobre a escolha da área no vestibular, não gostei da mudança. Muitos dos meus colegas decidiram a área no decorrer do curso. É importante uma formação generalista nos dois primeiros anos para firmar a base do engenheiro, porém é importante a existência de uma ênfase no decorrer do curso.
+
+#38
+Thomas C. G. de Vilhe Vilhena
+ &mdash; Engenharia Elétrica - Ênfase em Sistemas Eletrônicos (4º ano)
+02-05-2010 19:53
+A engenharia moderna encontra-se fortemente ramificada. O constante desenvolvimento tecnológico implica no crescimento desta ramificação. Não é adequado implantar uma formação generalista que impeça o engenheiro de atuar em áreas intrinsecamente específicas.
+Deve-se buscar atender à demanda da sociedade por mão-de-obra altamente qualificada através da formação especialista.
+Porém, o único entrave está na impossibilidade da faculdade de abranger todas as especialidades da engenharia através de seus recursos humanos e financeiros limitados, o que nos leva a seguinte questão:
+Como adequar a formação especialista aos recursos limitados da faculdade?
+
+#37
+Phillip M. S. Burt
+ &mdash; Professor Associado EPUSP
+29-04-2010 13:23
+Sou favorável a uma formação mais generalista, que forneça ao aluno bases sólidas e duradouras. Também sou favorável a um maior contato desde o início do curso com problemas práticos de engenharia, no qual o aluno "bote a mão na massa". Noto porém que a implementação disto exige certo cuidado, pois estes dois aspectos podem ser conflitantes, na medida em que não existem "problemas práticos generalistas".
+
+#36
+Natália Ghisi
+ &mdash; Engenheira Mecânica (formada em 2008)
+28-04-2010 10:55
+Acredito que foi um erro impor a escolha da ênfase ou da grande área no vestibular. 90% dos colegas que se formaram comigo entraram na poli com o objetivo de cursar outras ênfases, e ao longo do primeiro e segundo ano mudaram de idéia. Imagino que essa escolha precoce, feita numa época em que não temos maturidade e conhecimento suficiente, levará a uma taxa de evasão ainda maior, e formará profissionais menos interessados em seguir carreira na área técnica.
+
+#35
+Luis Kin Miyatake
+ &mdash; controle e automação - 3º ano
+26-04-2010 22:08
+O que podemos entender por formação generalista? Durante os 5 anos de graduação, matérias de todas as áreas com bom embasamento matemático e físico? Isso não forma engenheiro que vai resolver o problema técnico com a mesma competência de um especialista.
+A formação politécnica visa à formação de técnicos, de cientistas, de gerentes? Neste sentido, é importante que se tenha uma gama de assuntos que nos dêem base para encarar os futuros desafios de nossas escolhas.
+No entanto, acho absolutamente fundamental que o politécnico tenha o know how daquilo que ele tenha maior aptidão: daí a necessidade de não deixar o ensino totalmente generalista. 
+Ampliar o ciclo básico para os 2 anos não deixa de ser uma boa idéia neste sentido, mas acho totalmente necessários os 3 últimos dedicados à formação especialista. Além do mais, a formação generalista se complementa à medida do nosso interesse, com palestras, créditos livres optativos... com felicidade, nos inserimos numa universidade bastante rica e livre que nos proporciona com bastante maestria uma eventual formação complementar.
+
+#34
+Rafael Simoes
+ &mdash; aluno-automacao e controle
+20-04-2010 13:07
+Acredito que foi um erro impor a escolha da grande area no vestibular, pois a imensa maioria dos ingressantes nao tem maturidade ou conhecimento suficiente para fazer essa escolha. De fato, muitos sequer tem uma boa compreensao do que seja engenharia. Acredito que minimizar o nucleo básico e deixar ao aluno que "monte" livremente o seu curso é um erro ainda maior, como permitir a uma criança de tres anos que monte o cardapio das suas refeicoes.
+Ainda, lembro que a universidade nao existe para servir ao aluno, posto que é pública, mas sim para servir ao pais, e portanto seu currículo nao deve refletir a demanda ou remuneração do mercado, mas sim os interesses de crescimento e desenvolvimento da nossa sociedade.
+	Interpreto essa empolgação com um curriculo generalista como consequencia do fato de que uma grande parcela dos alunos quer e vai trabalhar em bancos, instituiçoes financeiras, consultorias estrategicas ou atividades afins, e portanto nao tem o menor interesse em aprender a ler um desenho técnico ou interpretar um circuito. Acredito que, por principio, a Escola deveria combater essa situação, e nao se adaptar a ela, visto que o Brasil tem déficit de engenheiros, e essa reação deveria começar a partir de um currículo.
+Defendo as seguintes alteraçoes no curriculo:
+-Introdução de disciplinas optativas no primeiro semestre: Cálculo zero, Ética e cidadania;
+-Núcleo básico comum dentro das grandes areas ( como um "trienio");
+-A partir do segundo ano, uma disciplina POR SEMESTRE de "Projeto", que condensasse todo o conteúdo visto até entao e envolvesse todas as etapas de um projeto de engenharia - estudos de viabilidade, benchmarking, relatorios, desenhos ou diagramas, simulaçoes e a elaboraçao de um modelo ou protótipo funcionando;
+-Adoção de um orientador de graduação, que montaria a grade de optativas em conjunto com o aluno;
+Quem concordou, discordou ou quiser discutir escreva para 
+rafael.simoes
+poli.usp
+.br
+
+#33
+Andréa Haritçalde
+ &mdash; Estudante POLI-USP 3º Ano civil
+20-04-2010 11:18
+Creio que uma formação mista deva ser o ideal. Para mim, este modelo se aproxima do que ocorre hoje. Ou seja, dois anos de núcleo comum entre engenharias que englobam matérias de matemática, física e computação básica, leitura de projeto (que deixa a desejar hoje), dois anos de matérias básicas ao núcleo da grande área e o último ano com certos números obrigatórios de créditos a se cumprir onde o aluno, assim, acaba através da escolha destas matérias se especializando em sua área de interesse ou escolhendo manter-se generalista e distribuindo tais créditos em áreas diferentes.
+No entando, possuo uma crítica ao modelo atual, não existe, na maioria das graduações, espaço para optativas livres, impedindo o aluno da POLI de ter contato com o além-muro da engenharia. Um mínimo de créditos livres a serem cursados fora da POLI seria interessante.
+
+#32
+Rafael Pires Barbosa
+ &mdash; Eng. Naval (3 ano)
+19-04-2010 15:54
+Acho que um bom laboratório nesse assunto foi a naval. Na EC2 se adotou um conteúdo muito generalista, em contraste com a EC1, em razão de uma demanda fraca por engenheiros navais à época. Foram-se as especializações e vieram as optativas livres. Com isso os egressos da EC2 puderam encontrar ocupações em outras áreas, mas tinham dificuldade quando o assunto era engenharia naval! Agora, com a perspectiva de mercado aquecido, tenta-se encontrar um meio termo. Acredito que uma boa solução de compromisso é um núcleo básico forte, com as ferramentas necessárias ao desenvolvimento das aplicações; disponibilidade no departamento de disciplinas optativas atualizadas e contextualizadas na profissão, algo que ainda não há fartura na naval; fim da obrigatoriedade de humanas, já que cada aluno, ao final do curso, deve ser capaz de gerir seu próprio curriculum; projetos integradores obrigatórios, além dos trabalhos de formatura.
+
+#31
+Leonardo
+ &mdash; Estudante Eng. Elétrica
+16-04-2010 20:21
+Acredito que a formação deve possuir um caráter mais generalista do que especialista, deixando a cargo do estudante montar sua própria ênfase, como já foi dito. Acredito que o crescimento do país deve exigir sensibilidade a novos empreendimentos dos futuros profissionais aliada a uma especialização estratégica. Esses são fatores que na minha opinião a montagem da própria ênfase deve oferecer. As matérias que estimulam o comportamento ético e pensamento humanitário são imprescindíveis.
+
+#30
+Marcelo Bruno
+ &mdash; Engenheiro Elétrico\/Mestre (EPUSP), Doutor (Carnegie Mellon University), atualmente Professor do Instituto Tecnológico de Aeronáutica (ITA)
+16-04-2010 15:36
+A formação deve ser generalista, reforçando o ciclo básico, especialmente nas áreas de matemática e ciências. Por exemplo, para engenharia elétrica, é fundamental uma disciplina de Funções de Variável Complexa (como já existiu no passado na Poli), além dos Cálculos, �?lgebra Linear e Cálculo Numérico. O ciclo básico deveria incluir ainda Probabilidade e Variáveis Aleatórias e dois semestres de Matemática Discreta, que poderiam substituir as atuais matérias de Introdução à Engenharia de Computação.
+Ainda no ciclo básico (1o e 2o anos), além de Química Geral, Ciência dos Materias e Física, seria interessante a introdução também de um semestre de Biologia Moderna (obrigatório por exemplo para todos alunos de engenharia do MIT). 
+Em relação ao currículo profissional, sou favorável, no caso da engenharia elétrica, à extinção das habilitações e ao aumento do número de disciplinas eletivas, permitindo ao aluno montar sua própria ênfase. Todos os elétricos cursariam um currículo mínimo generalista com circuitos (elétricos, eletrônicos e digitais), eletromagnetismo e microondas, sistemas e sinais, teoria de comunicações, controle, e estrutura de dados\/algoritmos. Esse currículo mínimo poderia ser complementado então por cinco eletivas de engenharia elétrica, mais uma eletiva técnica livre e duas eletivas de humanidades. 
+Nas matérias profissionais, apoio o modelo proposto pelo Prof. André e usado nas universidades americanas (por exemplo, na CMU onde estudei) com aulas de laboratório e aulas de exercícios integradas às aulas teóricas numa mesma disciplina com sigla única. 
+Nos últimos semestres do curso, poderia haver disciplinas apenas de laboratório baseadas em projeto (obrigatórias por exemplo em escolas como o MIT e a CMU), incluindo o laboratório de projeto de formatura, mas não se limitando apenas a ele. Minha proposta é que pelo menos uma disciplina de projeto eletiva seja obrigatória, além do projeto de formatura.
+
+#29
+Sérgio de Paula Pellegrini
+ &mdash; Engenheiro Mecânico\/2009
+16-04-2010 00:28
+Conversando com meus amigos ex-colegas, sempre ressaltamos a facilidade que agora temos de atacar e resolver problemas. Ter ferramentas de base e conhecer metodologias é primordial.
+A técnica de qualquer área em específico é algo possível de ser dominada em alguns meses. Desenvolver modos de analisar situações é algo que leva tempo.
+Nesse sentido, não acho desejável aprofundar o curso em técnica. Se é para ensinar todo o aporte técnico de todas as sub-áreas para cada engenheiro mecânico, o curso deveria ser bem mais longo do que (já) é.
+Um segundo ponto é que, se é para se defender uma formação generalista, deve-se ressaltar a importância do Biênio como polo de troca de experiência entre futuros engenheiros de diversas formações.
+Vale acrescentar que, enquanto \\\"bixo\\\" não tinha noção da importância dos conteúdos que estavam sendo passados. Sempre me lembro de uma aula de PMT em que fiz um trabalho com um colega que tinha entrado por transferência externa, que tinha muito mais noção do que eu, em aspectos práticos do tipo o que significava de fato um material ser encruado.
+Não que o Biênio também não tenha a função de elevar o \\\"bixo\\\" a um outro nível, mas há disciplinas atualmente no Biênio em que haveria um aproveitamento de conteúdo muito maior se elas fossem ministradas para alunos mais maduros.
+
+#28
+Gabriel Alves
+ &mdash; Engenharia Química \/ POLI
+14-04-2010 18:56
+Acredito sem dúvida, que a busca por uma formação generalista é muito mais atrativa aos futuros alunos e ao mercado, especialmente quando falamos de um futuro totalmente incerto e que a cada dia muda mais rapidamente.
+Entretanto, é necessário reavaliar o que entendemos por um engenheiro generalista, pois as matérias básicas do biênio não nos capacitam como generalistas, apenas nos fornecem visões (na maioria das vezes falsas) do que são as outras engenharias.
+Acredito que um engenheiro generalista não é aquele preparado para trabalhar em qualquer pilar de engenharia, mas sim, aquele preparado para atuar em qualquer setor (qualquer setor mesmo) de mercado, e, para isso, não somos bem preparados hoje.
+
+#27
+Cláudio Geraldo Schön
+ &mdash; Físico\/Coordenador de Cursos de Graduação
+14-04-2010 17:42
+Quando analisamos os cursos da poli da perspectiva dos cursos de saída (ênfases e habilitações) vemos que o principal problema que enfrentamos, paradoxalmente, encontra-se no ciclo básico. Não raro encontramos alunos que não se formam porque faltam a eles Física III ou Cálculo Numérico. É fato que tanto as diretrizes curriculares do MEC quanto o próprio perfil do egresso que acabamos de redigir prevêem um sólido conhecimento de Física e Matemática para nossos egressos, só que isto não significa necessariamente quatro disciplinas de cálculo, quatro de física, duas de álgebra e uma de cálculo numérico. Isto é uma herança do currículo mínimo que já poderia ter sido alterada há mais de dez anos. Não sou adepto de se extinguir completamente o ciclo básico, como preconizam alguns expoentes da pedagogia universitária, mas, em minha opinião, ele deveria ser repensado, seja no número de disciplinas de física e matemática, seja nos seus conteúdos. O aluno ingressante anseia por engenharia e, ao invés de atendê-lo nós os bombardeamos com física do século XIX e matemática do século XVIII. Temos (a Poli) a pretensão de liderança no ensino superior de engenharia do país, sendo assim deveríamos romper com este paradigma vigente alterando o ciclo básico de forma a torná-lo mais atraente e proveitoso ao aluno, ao invés do tormento que é hoje. Outro paradigma que deveria ser quebrado é o do engenheiro generalista. Aqui na Poli se confunde \\\"generalista\\\" com \\\"formação idêntica\\\". Ninguém hoje em dia duvida da nescessidade de uma formação multi- e interdisciplinar, mas há uma grande distância entre isto e um ciclo básico único com classes mistas. O engenheiro generalista será formado pela participação em atividades extra-curriculares (Iniciação científica, baja, robô, intercâmbio estudantil) e não assistindo aulas em turmas mistas.
+
+#26
+Bruno P. Bueno
+ &mdash; Eng. da Computação Coop - 4o ano
+14-04-2010 13:37
+A formação do egresso deve ser equilibrada, tendo uma boa base de matérias básicas e gerais, mas permitindo o aprofundamento na área que o aluno desejar.
+Seria muito interessante ter uma formação básica obrigatória e na parte específica do curso dar mais liberdade para o aluno escolher as disciplinas mais específicas.
+É necessário repensar as matérias do biênio, pois muitas matérias que estão lá para dar uma visão de todas as engenharias (por exemplo PQI) acabam ficando um pouco \\'jogadas\\' e desestimulantes.
+
+#25
+Eric Omine
+ &mdash; Engª Elétrica (Telecomunicações)
+13-04-2010 20:20
+Não deve haver favorecimento tão forte nem da generalização, nem da especialização. O profissional ao final do curso deve ter conhecimentos gerais de várias áreas (inclusive, não só da própria engenharia), pois isso fornece um pano de fundo para a busca de soluções, ao passo que certos conhecimentos específicos serão sempre necessários de acordo com o projeto em desenvolvimento.
+O problema do modelo generalista adotado pela Poli atualmente é que ele apenas coloca disciplinas de áreas diferentes em um mesmo corpo, sem costurar estas disciplinas, o que tira a coesão do curso. Muitas vezes tal incoerência é tão grande que parece que nem mesmo os professores enxergam objetivo em certas disciplinas, e.g. Quimica Tecnológica Geral, Noções de Mecânica dos Fluídos, Instituições de Direito, etc. É evidente que a filosofia \\\"divide and conquer\\\" não funciona no ensino, o estudante precisa não apenas entender cada disciplinas de maneira isolada, mas entender e ser estimulado a entender como tantas disciplinas diferentes podem se relacionar entre si e com a realidade física e material. Além disso, tal falta de coesão gera repetição de matéria, excesso de créditos, etc. O aluno faz malabarismos para cursar tantas coisas divergentes ao mesmo tempo. Uma solução óbvia é criar disciplinas exclusivamente voltadas a projetos de longo prazo, que leve o aluno a utilizar os conhecimentos obtidos até então. Uma idéia derivada disso é substituir a avaliação com provas (que no fundo, todos sabem, é mais um teste de memória do que de conhecimento) por um projeto no final do semestre para várias disciplinas correlacionadas, o que tornaria a vida acadêmica mais agradável, pois a grande maioria dos alunos deseja envolver-se em projetos práticos, e avaliaria não apenas o conhecimento do aluno, mas também sua intuição para lidar com este conhecimento.
+Outra abordagem é acabar com a tradição não assumida de isolamento da Poli em relação a outras unidades, pois se o currículo da Poli praticamente só tem disciplinas da Poli (desconsiderando as disciplinas básicas de Cálculo, �?lgebra e Física, que são fundamentais), então ele não é tão generalista asim. E.g. na Univ. Carneggie Melon (top 10 de engenharia no mundo), 1\/5 dos créditos de todos semestres é dedicado a humanidades. Stanford e MIT adotam políticas similares com seus próprios \\\"ciclos básicos\\\".
+
+#24
+Paul J. E. Jeszensky
+ &mdash; Professor Titular da EPUSP
+13-04-2010 13:15
+De uma forma concisa: devemos nos preocupar com os aspectos mais perenes da engenharia, o que nos leva às ciências básicas. Muitos aspectos da chamada especialização têm vida curta... o que nos leva novamente à mesma conclusão anterior: fortalecer os aspectos duradouros que são a base da construção para todo o resto.
+
+#23
+Gabriel Alves
+ &mdash; Engenheiro Químico \/ POLI
+13-04-2010 08:26
+A opção de Engenheiro com uma formação mais generalista é sem dúvida mais atrativa ao aluno e, ainda mais, ao mercado.
+Entretanto, é necessário a consciência de que uma formação generalista foge (MUITO) da estrutura EC-2 que temos hoje na Poli, onde temos uma uma formação básica nos dois primeiros anos e uma específica nos três seguintes.
+Na minha visão, essa formação básica dos dois primeiros anos passa longe da visão generalista que a escola deseja para seus alunos. É simplesmente uma formação básica com matérias de diferentes cursos que pouco agregam na formação final (com poucas exceções).
+
+#22
+Marcus Vinicius
+ &mdash; E. Ambiental 4º ano
+12-04-2010 23:31
+Acredito que devemos repensar o que define um conhecimento de base para um engenheiro. Vejo que muitos conhecimentos deveriam ser introduzidos no ciclo básico, tanto técnicos (como mecânica do contínuo, termodinâmica, físico-química, bioquímica, entre outras) quanto de formação humanistica e empreendedora ( mostrar o papel da filosofia e ciências sociais na atuação profissional, e a questão da inovação). Acredito que seria mais útil que a poli possuísse um ciclo básico de três anos (ou de dois realmente básicos, o que não ocorre hoje), visto que muitos conteúdos técnicos que temos são, indiretamente, comuns às várias áreas da engenharia.
+
+#21
+Gabriel Lourenço Fidalgo
+ &mdash; Eng. Elétrica - Ênf. Automação e Controle
+12-04-2010 22:58
+Creio que a definição do tipo de formação que a escola politécnica busca para seus alunos deve ser o norte de toda alteração dentro da EC2. Já que ficar em cima do muro entre especialista e generalista é, talvez, a principal razão da bagunça entre as disciplinas hoje. Eu acredito que a opção generalista seja a escolha seja a mais correta 
+O começo da nossa jornada na Poli no Ciclo Básico, por exemplo, está mal construído, pois se a idéia é formar uma base de conhecimento comum para todos os engenheiros, então por que as matérias já se ramificam completamente no segundo ano?
+Eu sou a favor várias seguintes mudanças no 1º ano, como, por exemplo:
+Iniciar-se o curso de Física somente após o término do curso de Cálculo, ou seja, sou a favor de ‘praticamente’ termos todo o cálculo no 1º ano, antes de começarmos a nos aprofundar no resto.
+
+#20
+Fernanda Silva
+ &mdash; Engenharia Civil
+12-04-2010 22:41
+Acredito que uma formação generalista seja adequada para o cenário atual. Entretanto, acho que vale uma reflexão a respeito de quais matérias inserir no currículo e a profundidade das mesmas. Senti que as matérias do biênio são excessivamente profundas, enquanto as matérias técnicas específicas muitas vezes são superficiais. Além disso, acho que valeria a pena investir em mais matérias como matemática financeira, economia, responsabilidade social, etc.
+
+#19
+Ricardo H Gracini Guiraldelli
+ &mdash; Engenheiro de Computação e Mestrando
+12-04-2010 22:36
+O perfil do egresso, certamente, deve ser generalista, fortemente baseado em abstrações que o possibilitem compreender os mais diversos problemas no dia-a-dia, assim como o possibilite a modelar as soluções para os mesmos.
+Certamente alguns conceitos mais específicos deverão ser ensinados, contudo é necessário carga teórica da sua área de atuação com exemplos da aplicação prática desse conhecimento --- bom exemplo é Compiladores, em Computação ou Teoria da Informação para Computação, Telecomunicações, etc...
+O raciocínio matemático deve ser melhor explorado, e não apenas o conhecimento contínuo, mas também o discreto dado que o mundo atual, seja para um profissional de Elétrica ou mesmo um de Produção, é modelado por bits e processos individuais.
+
+#18
+Hermes La Macchia
+ &mdash; Engenharia Eletricista
+12-04-2010 21:44
+Acredito que deve existir ambas opções, sugiro que fosse uma ênfase a mais. 
+O aluno poderia escolher a ênfase generalista da respectiva grande área. 
+Ou acabar com as ênfases fechadas e liberar a grade horária para o aluno montar a sua grade, deixando à seu critério se ela será generalista ou especialista. Esta escolha poderia ser auxiliada por um orientador, não necessariamente um professor, poderia ser um engenheiro formado.
+
+#17
+Rogério Chung
+ &mdash; Engenharia Eletrônica
+12-04-2010 21:34
+Acredito que uma formação mais generalista com boa base teórica nos principais tópicos aliado à visão prática que se deve ter dos assuntos seja o ideal. Este equilíbrio muitas vezes é difícil de ser alcançado, sendo a matéria às vezes muito teórica e distante do cotidiano de um engenheiro e outras muito prática com embasamento teórico insuficiente para o entendimento do assunto. As optativas devem surgir como meio de especializar o engenheiro na sua área de interesse.
+
+#16
+Daniel Brooke Peig
+ &mdash; Engenheiro Ambiental
+12-04-2010 21:10
+A formação deve ser generalista porém a base deve ser muito bem estabelecida e rigorosa.
+O biênio tem um papel fundamental na formação do Engenheiro Politécnico. Os desafios pelos quais os alunos dos primeiros anos passam (da forma mais desconfortável possível) acabam diferenciando-os dos egressos de demais faculdades.
+O excesso de optativas leva a um curso agradável e mais voltado para as aptidões do aluno. Por outro lado, ao susbstituir uma grade de disciplinas essenciais (e são muitas) pode levar à formação de engenheiros incapazes de solucionar problemas dentro de sua própria atribuição junto ao CREA. Fato evidente e muito comum em faculdades e cursos muito \\\"flexíveis\\\".
+
+#15
+João Paulo Navarrete
+ &mdash; Engª Quimica-2º ano
+12-04-2010 21:00
+Uma formação generalista. Este é o grande diferencial da escola em relação as outras faculdades, mas não deve ser supericial
+
+#14
+Renato Naville Watanabe
+ &mdash; Engenharia Elétrica-Automação e Controle
+12-04-2010 20:29
+Uma formação mais generalista do que a atual seria desejável. Se possível, com os dois primeiros anos iguais para todos.
+
+#13
+Bárbara
+ &mdash; Eng. ambiental
+12-04-2010 20:22
+Sempre achei muito interessante a premissa de uma formação generalista no biênio para só depois entrar em uma especialização. Mas as matérias do biênio acabam se aprofundando demais em temas q serão totalmente desnecessários para algumas carreiras por isso acho q poderia ser revista essa grade horária e incluir tbm mais conteúdo para uma formação ampla, como matérias da área de humanas.
+
+#12
+Marcos
+ &mdash; Eng. Civil POLI\/2000
+12-04-2010 19:54
+Sem dúvida, formação generalista. Na minha turma (Civil\/2000), cada um que optou por uma especialidade, fe pôde desenvolver-se e aprender após a graduação. Muitos de nós fizemos mestrado\/doutorado e especializações nas áreas específicas de interesse. A formação generalista é a força do politécnico, é o que ele carrega por toda a vida. O excesso de informação que um aluno recebe na graduação desvia o foco para a formação principal e reduz o tempo de dedicação a ela.
+
+#11
+Felipe
+ &mdash; Eng. Naval
+12-04-2010 19:40
+Acredito que a criação de blocos de optativas nos ultimos anos para os alunos nas diversas engenharias da poli pode fazer com que eles escolham por uma formação generalista ou uma formação especialista - caso interesse, até nas duas, com a extensão do curso por um ano, por exemplo.
+Ainda que a vertente do politécnico seja, historicamente, generalista (e isso deve ser preservado se o aluno assim quiser), a universidade ganha muito em pesquisa, desenvolvimento, pós-graduação e, por que não, em futuros docentes, ao oferecer uma opção especialista.
+
+#10
+Leandro Nobushi Hoshiko
+ &mdash; Engenharia Química - 2º ano
+12-04-2010 19:10
+Formação generalista, mas meor carga teórica das disciplinas do biênio e maior nas matérias de engenharia de fato.
+
+#9
+Jonas
+ &mdash; Engenheiro Mecatrônico
+12-04-2010 19:07
+Formação generalista, conceitos teóricos bem fundamentados e abrangentes.
+
+#8
+Luciano
+ &mdash; Eng. Mecânica
+12-04-2010 18:37
+Uma formação generalista, porém acredito que matérias mais relacionadas com sua especialização podem estar presentes mais cedo no curso, assim que já houverem os pré-requisitos necessários.
+
+#7
+Estevão
+ &mdash; Eletrica 2 Ano
+12-04-2010 18:08
+Uma formação generalista, por exemplo, menos carga de computação e mais carga de automação
+
+#6
+Estevão
+ &mdash; Engenharia Elétrica Segundo Ano
+12-04-2010 18:06
+Formação generalista para engenheiros eletricistas, com menos carga de materias teoricas da computação, e mais carga generica de automação, por exemplo, que falta em tosdos os cursos
+
+#5
+Juliana A.
+ &mdash; Engenharia Civil
+12-04-2010 17:54
+Pelo menos na Civil, como o Luiz falou, formar blocos de especialidades com as optativas, e não uma grade completamente aleatória que faz com que os alunos escolham as disciplinas em funçao dos horários das aulas. Poderiam haver especializações com blocos para que o Engenheiro Civil fosse formado com ênfase em estruturas, hidráulica, gestão, métodos construtivos, transportes e etc...
+
+#4
+Bruno Bandeira de Azevedo
+ &mdash; Engenharia da Computação\/Estudante da Poli
+12-04-2010 17:09
+Uma formação generalista. Porém devemos levar em conta que os jovens de hoje tem sérios problemas de atenção com coisas das quais não se relacionam e esse problema é sentido seriamente quando entramos na Poli. 
+A estrutura curricular não permite que tenhamos o mínimo de contato com a engenharia na qual nos inscrevemos até um ponto distante de nossa formação, e isso causa muita frustração nos estudantes e evasão no curso. Pessoalmente conheço pouquíssimos amigos meus que quando entraram na Poli não sofreram o baque de não conseguir se imaginar chegando até o final do curso. Muitos efetivamente trocaram de cursos para outros que tinham um enfoque mais prático, obviamente abandonando completamente a opção da carreira na Engenharia, pois afinal, se na Poli não é bom, não será em outra faculdade.
+É necessário um maior contato do estudante com suas áreas de atuação, desde o começo do curso, para mantê-lo motivado a enfrentar toda maratona de semana de provas e trabalhos e tudo mais que a Poli tem a oferecer de mais árduo.
+
+#3
+Felipe Rinaldi de Campos
+ &mdash; Eng. Computação
+12-04-2010 17:01
+Generalista porém rigorosa e sistemática. Abrangente porém não superficial
+
+#2
+Guilherme Dourado
+ &mdash; E. Civil 4o ano
+12-04-2010 16:58
+Gosto da parte de ter aula com alunos de todas as áreas, isso diversifica o conhecimento e cria amizades que vão além das áreas.
+No entanto acho que há espaço, já no primeiro ano, para matéria que deixem o aluno com a sua turma real, tendo matérias específicas
+
+#1
+Luiz
+ &mdash; Engenheiro Civil
+12-04-2010 16:08
+Formação generalista, mas não tanto como na civil. As optativas poderiam formar blocos congregando áreas afins.
