@@ -1,0 +1,174 @@
+
+#23
+Felipe Pait
+ &mdash; Eng elétrico - professor da Poli
+16-05-2010 17:48
+Acho que não. Ainda existe um montão de provas, e até provas sem consulta. Lembrar fórmulas de memória é coisa do século 20. Hoje existe o google. 
+Mas é difícil mudar a forma de dar um curso, então cada professor vai mudando de ano para ano da forma como consegue. Nos cursos de 4o e 5o anos raramente dou provas, mas não saberia como fazer isso se estivesse ensinando cálculo ou circuitos elétricos para trocentos alunos.
+
+#22
+Cezar
+ &mdash; Eng. Eletirca 3° ano
+15-05-2010 18:52
+A Poli seguir o exemplo do MIT, do Indian Institute of Technology, que disponibilizam suas aulas na web.
+
+#21
+Thomas C. G. de Vilhena
+ &mdash; Engenharia Elétrica - Ênfase em Sistemas Eletrônicos (4º ano)
+05-05-2010 00:15
+A pergunta recai sobre duas questões distintas.
+1ª) Os professores se valem de ferramentas computacionais modernas para o ensino da engenharia?
+Na grande área elétrica, é possível observar que alguns professores, de fato, buscam parcerias com empresas privadas para utilizar softwares profissionais em suas disciplinas e disponibilizá-los ao aluno. Contudo, a grande maioria ainda segue o padrão de ensino da década passada, com aulas apenas na lousa e com eventual uso de transparências.
+A mudança desta abordagem resultaria em aulas mais interessantes (é claro que há disciplinas teóricas não podem tirar muito proveito de uma nova abordagem).
+2ª) Há recursos computacionais de hardware e software adequados disponíveis para o aluno da EPUSP?
+A EPUSP dispõe de diversas salas pró-aluno, algumas melhor equipadas do que outras (também possui o CCE em suas imediações). Cada uma destas salas deve ser avaliada individualmente, adequando-as às necessidades de cada público-alvo.
+Também é preciso exigir ética dos alunos quanto ao uso dos recursos computacionais. É comum ocorrer do aluno que necessita fazer um trabalho não ter acesso a um computador devido ao fato de outros alunos estarem "passando o tempo" na internet.
+
+#20
+Henrique Povedano
+ &mdash; Produção
+20-04-2010 21:25
+Computação é um assunto extremamente importante em engenharia, mas também em áreas não relacionadas com ela para as quais muitos alunos da POLI se dirigem. 
+A computação deveria ser ensinada com mais profundidade, tanto com novos conceitos em MAC quanto com novas matérias (talvez MAC II).
+Além disso, é importante que todas as matérias de engenharia exigam pelo menos dois exercícios de simulação computacional, como ocorre em MEC B.
+Cálculo numérico poderia ser mais pratico, uma vez que a matéria é totalmente sem sentido sem o uso de computador e mesmo assim só trabalha-se com este nos dois EPs.
+Além disso, é importante, dados os requisitos do mercado de trabalho atualmente, alguma noção de excel.
+Resumindo, computação é importantíssimo e deve ser mais aprofundada.
+
+#19
+Andréa Haritçalde
+ &mdash; aluna 3 ano eng civil poli
+20-04-2010 11:50
+Infelizmente, como monitora da sala de computadores, sabe-se que a burocratização dos processos para se pedir novos programas ou mera atualizações dos mesmos é grande. A mera manutenção de um computador quebrado pode levar meses sem repostas dos responsáveis.
+Assim, a desburocratização e abertura de espaço para o aluno sugerir novas necessidades é de grande necessidade hoje em dia. 
+Outra coisa perninte é o fato de inúmeras matérias exigirem conhecimento de certos softwares sem dar o devido apoio ao ensino do mesmo (coloca-se monitores e apostilas pró-forma), seria interessante haver um monitor certificado para auxiliar os alunos e não apenas um que "passou na matéria então parece que sabe".
+
+#18
+Luciana C.
+ &mdash; Engenharia Química 2o ano
+19-04-2010 17:56
+A EPUSP deveria incentivar o uso de software livre, visto que trata-se de um software mais seguro e que dá a possibilidade de um aprendizado melhor sobre os computadores. O que vejo na Poli é que os computadores que possuem software livre estão com uma versão muito desatualizada e sem manutenção, o que pode desestimular o seu uso pelos alunos.
+Outra coisa: as redes Wi-fi apresentam muitos problemas e não abrangem boa parte da Poli. Hoje em dia é muito comum os alunos carregarem seus notebooks para a Universidade a fim de realizarem suas pesquisas, mas na semana passada o sinal da Uspnet estava bem instável. E a PoliSemFio não está em toda Poli.
+
+#17
+Leonardo Leite
+ &mdash; eng. elétrica, comp
+19-04-2010 08:25
+Não, pois nas salas em que os computadores estão disponíveis para o uso, é comum haver falta dos softwares necessários para o trabalho.
+Durante o curso a posse de um notebook tem se mostrado essencial não pela falta de PCs na Poli, mas pela negligência em mantê-los com a configuração adequada.
+
+#16
+Marcelo Jr
+ &mdash; Eng. da Computação
+17-04-2010 19:39
+Infelizmente não.
+Não é preciso muito esforço para ver isto: os calouros entram muitas vezes sem saber programação e as aulas de MAC2166 são dadas em sala de aula, ao invés de ser em um laboratório com computadores para os alunos irem se acostumando a programar.
+
+#15
+Gabriel Alves
+ &mdash; Engenheiro Químico / Poli
+14-04-2010 19:04
+De forma alguma!
+Os computadores tem um desempenho abaixo do esperado e necessário em uma universidade que é referência para muitas outras.
+Há poucos, os disponíveis não têm alto desempenho e não temos licenças para grande parte dos softwares necessários!!! Isso estimula até mesmo que os alunos "pirateem" alguns programas o que é ainda mais absurdo se estamos falando de uma universidade pública.
+
+#14
+Cláudio Geraldo Schön
+ &mdash; Físico/Coordenador de Cursos de Graduação
+14-04-2010 17:51
+Há uma oferta adequada de recursos computacionais nos nossos cursos. Esta oferta, é claro, está longe de ser ideal. Em um mundo perfeito todo aluno da Poli teria seu computador. Enquanto isto não ocorre, entretanto, temos ferramentas sofisticadas de ensino em rede (termo cunhado pelo Prof. Ewout Ter Haar para não usar EAD) seja via moodle seja via CoL. O que nos falta (a nós, professores) é treinamento no uso destas técnicas. Não raro usamos estes recursos apenas para disponibilizar material aos alunos, o que está muito distante de suas potencialidades.
+
+#13
+Ricardo H Gracini Guiraldelli
+ &mdash; Engenharia de Computação e Mestrando
+12-04-2010 22:58
+Certamente a EPUSP está aquém do esperado para uma instituição deste porte. Apenas para listar alguns aspectos, temos:
+(1) Falta de computadores para uso dos alunos, assim como problemas com os horários de funcionamento das salas de computadores;
+(2) Computadores obsoletos ou com infra-estrutura (hardware, software, rede) deficitária;
+(3) Manutenção da estrutura computacional é demorada e a disponibilidade de alguns serviçoes (como e-mail) é inconstante;
+(4) Não há espaço para alunos (de graduação ou pós-graduação) para publicação de conteúdo online; nem mesmo os professores tem páginas próprias (salvo raras exceções);
+(5) Não há padronização na página de laboratórios e faltam servidores e espaço online para alguns;
+(6) Falta de material online disponível, assim como cursos, a exemplos dos Open CourseWares. Isso porque há IPTV-USP, Tidia-Ae, Stoa, etc...
+(7) A baixa cobertura de conexão (wireless) nos prédios é triste, especialmente na atual "era da Informação".
+
+#12
+Júlia
+ &mdash; Eng. civil (3o ano)
+12-04-2010 21:56
+Não. O melhor exemplo disso é que pelo menos metade dos alunos possui uma HP, mas são raros os que sabem usá-la além dos recursos de padaria.
+Cursos (com vagas suficientes para TODOS os interessados, e não só 50 alunos por vez) deveriam ser realizados, possivelmente com uma aula voltada a cada assunto diferente. Assim, o aluno poderia aprender a usar a HP na matéria que a requisitasse no momento, (ex: estatística ou numérico), ocupando uma vaga apenas nas aulas que lhe interessassem, e otimizando o aprendizado. (Afinal, quem vai lembrar do que aprendeu se nunca mais usar a ferramenta?)
+
+#11
+Rogério Chung
+ &mdash; Estudante de Engenharia Eletrônica
+12-04-2010 21:44
+Curso o 4º ano de engenharia agora e a única matéria de programação que tenho é feita na lousa, assim como a matéria de Introdução a programação que todos tiveram no primeiro ano. Isso é simplesmente RID�?CULO! Não deveria existir. Portanto a resposta é não!
+
+#10
+Renato Naville Watanabe
+ &mdash; Engenharia Elétrica-Automação e Controle
+12-04-2010 20:40
+Uma forma de recusrso computacional que poderiam ser usados pelo menos nos 3 últimos anos seriam mais simulações computacionais da teoria estudada. É uma forma excelente para aprender outros aspectos da teoria e que não tem muito custo.
+
+#9
+Marcos
+ &mdash; Eng. Civil POLI/2000
+12-04-2010 20:06
+O aluno precisa sair da universidade como usuário intermediário/avançado das ferramentas computacionais principais na sua carreira. Um engenheiro civil deve saber trabalhar bem no AutoCAD, no Civil 3D, em algum software de cálculo estrutural, de Elementos Finitos, entre outros. Parece uma defasagem grave o politécnico sair da universidade sem ter conhecimento dessas ferramentas "básicas". É como uma secretária não saber usar e-mail ou Word.
+
+#8
+Felipe
+ &mdash; Eng. Naval
+12-04-2010 19:50
+Não, e o que é mais preocupante, os próprios professores as vezes não têm pleno conhecimento das ferramentas que podem ou devem ser utilizadas. Ainda que o recurso tecnológico necessite atualização constante, os departamentos não podem fazer vista grossa e achar que o aluno correrá atrás de todo o conhecimento assim que mergulhar no mercado de trabalho pois sua tarefa é apenas o aprendizado teórico.
+
+#7
+Estevão
+ &mdash; eletrica 2 ano
+12-04-2010 18:14
+Nem um pouco!
+Existe a necessidade de integrar os recursos computacionais sem a tradicional burocracia: Os alboratoriso de psquisa devem ter mais auntonomia para comprar, e esses recursos de pesquisa serem usados no ensino! Não pode haver distinção entre pesquisa e ensino
+
+#6
+Guilherme Dourado
+ &mdash; E. Civil 4o ano
+12-04-2010 17:43
+Não! Por iniciativa de um grupo que participava tentamos instalar o AutoCAD Civil 3D nos computadores e foi um processo burocrático.
+Não só isso... exigir mais dos alunos com a utilização de tais softwares mesmo em trabalhos seria um ótimo incentivo. Poderia-se também oferecer cursos para softwares de tamanha importância.
+
+#5
+Anderson Cardoso
+ &mdash; estudante
+12-04-2010 17:40
+a poli deveria incentivar e usar fortemente o software livre como ferramenta de aprendizado para os alunos na area de computacao.
+Dado que o engenheiro moderno, independente da area, trabalha basicamente com computadores a maior parte do tempo, o dominio dessa ferramenta é fundamental. E esse dominio só é alcançavel com o uso de software Livre. 
+recomendo o seguinte texto sobre o assunto para uma compreensao maior do fato : 
+ibm.com/.../...
+
+#4
+Bruno Bandeira de Azevedo
+ &mdash; Engenharia da computação/Estudante
+12-04-2010 17:30
+Não.
+Até essa caixinha de comentários dá problema. (70 caracteres restantes e ainda assim acusa um comentário muito longo...)
+Essa é uma oportunidade para os professores que não tem contato com tecnologia, usem os alunos que tem para auxiliá-los. Aulas podem ser gravadas e oferecidas via WEB, trabalhos enviados via web (o que raramente acontece, e quando acontece é de uma forma lastimável).
+Existem poucos cursos na Poli que são ministrados via WEB para quem repete alguma materia. A Poli é uma universidade difícil e é muito comum ter dependências em disciplinas. Esse tipo de curso, a meu ver, ainda cobra a matéria do mesmo modo e oferece uma oportunidade para o aluno que tem uma grade horária atribulada, seja por estar trabalhando ou por estar fazendo outras disciplinas.
+É preocupante que a Escola inteira não tenha um sinal Wi-Fi estável decente. Geralmente as redes são várias, a maioria com senha. A USPNet não abrange a escola inteira e nem a rede interna da Poli.
+
+#3
+Felipe Rinaldi de Campos
+ &mdash; Eng. Computação
+12-04-2010 17:19
+A Poli poderia disponibilizar alguns de seus materiais produzidos para toda a sociedade, a exemplo do OpenCourseWare do MIT
+
+#2
+Rafael Marin Herrera
+ &mdash; Estudante
+12-04-2010 16:31
+Poderia ser muito melhor. Alguns recursos, como as Salas Para o Aluno, são muito mal gerenciados. Fui monitor de uma sala e sei da dificuldade de conseguir colocar softwares úteis ao aprendizado dos alunos e da falta de manutenção preventiva e morosidade da corretiva. Os monitores não sabem o que fazer, falta infomração e nomeação pública de um responsável pelas salas. Outro ponto importante é a falta de infraestrutura de internet sem fio e pontos de alimentação para usarmos nossos computadores portáteis. Isso deve ser seriamente reconsiderado.
+
+#1
+Luiz
+ &mdash; Engenheiro Civil
+12-04-2010 16:13
+Não. Quando fui aluno, não haviam nem os programas usados em aulas nas salas de computação.

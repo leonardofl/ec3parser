@@ -1,0 +1,472 @@
+
+#56
+Flávio Celso Trigo
+ &mdash; Eng. Mecânico/Prof. da Poli
+21-05-2010 16:37
+Continuação da mensagem sobre o CEMACE.
+A presente proposta não objetiva, entretanto, somente a solução do problema de espaço que as equipes Poli enfrentam. Pretende-se que o centro de apoio abrigue também outras atividades de cultura e extensão permanentes, como os grupos PET, ou sazonais de cunho acadêmico das quais os alunos da Poli participem, como a Poli Júnior, Poli Cidadã e Semana de Arte da Poli, somente para citar alguns exemplos. Nesse sentido, o novo CEMACE constituir-se-ia em um local que, devidamente projetado e equipado, abrigaria a apresentação de palestras, workshops, exposições e convenções de interesse acadêmico ou cultural organizadas pelos alunos, professores e funcionários, propiciando assim um foro para a difusão de conhecimento e integração de toda a comunidade Politécnica. O novo Centro Multidisciplinar poderia, também, ser utilizado para apresentar a EPUSP a estudantes de nível médio em busca de suas vocações, o que contribuiria para aumentar o cunho de integração com a sociedade exigido de uma instituição pública de nosso porte. Tendo em vista as características descritas acima, passa-se às sugestões e idéias de concepção do referido espaço. 
+Sugere-se que o projeto de concepção do Centro, após alguma consulta, seja executado por escritório especializado. Como ponto de partida, imagina-se a edificação de um prédio com cerca de 1000 metros quadrados de área construída, em dois andares, com locais destinados a oficinas, escritórios com facilidades de informática, salas de apresentação e treinamento, e um espaço de convivência. A área de oficina poderia, por exemplo, ter duplo pé-direito, para acomodar equipamentos maiores. O projeto, como um todo, poderia pautar-se no atendimento às premissas SMS, para o que a viabilidade da inclusão de dispositivos que permitissem a utilização da radiação solar na geração de energia elétrica, reproveitamento dos recursos pluviais e reciclagem de resíduos líquidos e sólidos seria estudada para uma eventual implantação. Com isso, a EPUSP estaria, também, inovando no sentido de implantar o primeiro "edifício verde" no Campus. 
+A proposta acima foi formalmente entregue ao Prof. Dr. José Roberto Cardoso em reunião no dia 30/4/2010
+
+#55
+Flávio Celso Trigo
+ &mdash; Eng. Mecânico/Prof. da Poli
+21-05-2010 16:33
+Proposta para um Centro Multidisciplinar de Apoio às Atividades de Cultura e Extensão dos alunos da EPUSP (CEMACE) - Proposta dos Prof. Celso Pupo Pesce, Chefe de Departamento da Mecânica e Flávio Celso Trigo, professor do PME
+A idéia da criação de um local apropriado para que os alunos dos cursos de graduação da EPUSP realizem atividades de extensão pertinentes à sua formação surgiu em face às dificuldades de alocação de espaço atualmente enfrentadas pelas equipes POLI que participam de competições entre faculdades de engenharia, quais sejam, Poli Baja, Poli Fórmula, Poli Aerodesign e, mais recentemente, a Equipe Poli Guerra de Robôs (denominada "ThunderRatz"). As três primeiras participam de competições regularmente organizadas pela SAE-Brasil, tendo já inclusive obtido resultados expressivos, ao passo que a última representa a POLI no ENECA - Encontro Nacional de Engenharia de Controle e Automação. 
+As atividades mencionadas possuem importante papel na formação do engenheiro Politécnico à medida que representam a oportunidade de aplicação do rico arcabouço teórico que nossa Escola prima em ofecerer a seus alunos à solução de problemas reais de engenharia. 
+ Além disso, para que logrem obter êxito nestas empreitadas, as equipes devem se organizar de modo a dividir tarefas e administrar conflitos internos e externos visando o trabalho em sinergia, tão valorizado nas organizações em nossa época. Cabe enfatizar que o aprimoramento dos projetos efetuados, evidenciado pela contínua melhoria no desempenho das equipes em suas respectivas competições, é fruto da transferência eficaz do conhecimento entre os integrantes atuais e seus sucessores, efetuada basicamente através das memórias de cálculo e relatórios específicos. Assim, a elaboração e discussão dessas memórias e relatórios constituem-se, também, em uma fonte de aprendizado cujos benefícios serão patentes durante a futura atuação profissional de nossos alunos. Os aspectos aqui relacionados permitem caracterizar as atividades de nossas equipes no âmbito da cultura e extensão, com o qual procuramos justificar o nome sugerido para o novo espaço.
+A existência de instalações que atendessem às demandas das Equipes POLI certamente seria um marco importante no auxílio à formação politécnica.
+
+#54
+José Roberto Amazonas
+ &mdash; Engenheiro eletricista
+21-05-2010 15:48
+Apenas para registrar que um grupo de docentes do PTC iniciou uma discussão a respeito da ênfase de telecomunicações que resultou em dois documentos: i) um diagnóstico sobre o curso que abrange desde os problemas do biênio, ética e excesso de especialização; ii) uma proposta de reestruturação baseada em coerência temática.
+Ambos os documentos já foram apreciados pelo Conselho do PTC que sugeriu que a discussão fosse levada às COCs.
+Esses documentos podem contribuir com a discussão da EC3 e podem ser acessados em:
+
+lcs.poli.usp.br/.../...
+
+Sugestões de aprimoramento são bem-vindas.
+
+#53
+monacer ericson da silva
+ &mdash; engenharia de telecomunicações - 4º ano
+18-05-2010 19:16
+Acho interessante que as pessoas deixem seus e-mails disponíveis de modo que, caso alguém conteste uma determinada opinião, possa primeiramente tomar contato com seu emissor, evitando debates improdutivos no fórum. Desse modo as pessoas conversariam esclarecendo pontos que ficaram vagos ou foram mal interpretados, havendo ainda o diálogo e debate, mas estes seriam realizados com opiniões mais refinadas decorrentes dessa conversa nos bastidores, tornando o diálogo mais construtivo.
+
+monacer.ericson
+gmail.com
+
+#52
+Yuri Oliveira Petnys
+ &mdash; Eng. de Controle 4º Ano
+18-05-2010 13:02
+Minha sugestão na reformulação do currículo é evitar o overlapping de conteúdo. Na Elétrica, por exemplo, temos:
+Física 3 (4320292), onde estudamos eletromagnetismo (equações de Maxwell, entre outras); e Eletromagnetismo (PTC2313), onde revemos durante um mês a matéria de Física 3 para, então, começar a aprender técnicas novas de cálculo de campos;
+Int. à Eletromecânica (PEA2211), onde colocamos em prática todo o embasamento teórico que teremos um ano e meio depois, em Conv. Eletromecânica (PEA2306)
+Acredito que isso também ocorra, com maior ou menor freqüência, em todos os outros cursos da Poli. Ver o mesmo conteúdo duas vezes (ou até três) desanima o aluno a estudar, pois o conteúdo não instiga - e perde-se tempo que poderia ser utilizado na abordagem mais aprofundada de outros assuntos.
+
+#51
+Rogério Chung
+ &mdash; Engenharia Elétrica - Ênfase em Sistemas Eletrônicos (4ºano)
+18-05-2010 00:43
+Outra coisa que esqueci de colocar no tópico anterior é:
+De que adianta o professor pesquisar se a maioria dos professores não usa nada da sua pesquisa nas aulas??? Nem ao menos as cita ! Deveria de certa forma relacionar o que a gente vê na aula com a sua pesquisa e de que forma aplicamos a matéria vista na pesquisa ou no trabalho por exemplo.
+Para mim pelo menos isso serve como estímulo.
+O único professor que tive que eu me lembro de ter feito isso foi um de cálculo 4 o professor Cláudio Possani. As aulas dele eram extremamente estimulantes e a sala era sempre lotada.
+
+#50
+Eric Omine
+ &mdash; Engª Elétrica (Telecomunicações)
+17-05-2010 23:54
+Concordo razoavelmente com o comentário #47, no sentido de que a didática de alguns professores deixa a desejar. 
+A maioria das aulas da Poli incentiva a memorização de fatos, e não da compreensão dos mesmos. Para mim isto é uma prática ruim de ensino.
+Deveríamos usar o que aprendemos. Se for para aumentar a carga horária, como no #41, tem que ser com atividades práticas, para botarmos a mão na massa, e não com mais teoria.
+Eu que também fiz a disciplina de Processos Estocásticos, faço uma análise um pouco diferente do comentário do profº Baccalá, pois foi em boa parte graças a esta disciplina e com estes comentários que percebi que a Poli estava me encorajando a decorar tudo e raciocinar pouco. Mas no fundo não discordo do que é colocado no #47: o ensino de cálculo realmente não é compatível com o que se deseja para cursarmos estocásticos, nesse sentido falta um tanto de coesão do currículo.
+
+#49
+Rogério Chung
+ &mdash; Engenharia Elétrica - Ênfase em Sistemas Eletrônicos (4ºano)
+17-05-2010 21:31
+Uma sugestão que me veio agora depois de ter uma aula terrível hoje na Poli é a de obrigar os professores da Poli a ter algumas matérias relacionados à didática. Vejo que há professores qualificadíssimos com um currículo invejável mas que não conseguem passar a matéria de forma adequada para os alunos. É claro que muitos professores podem se manifestar dizendo que sempre dão espaços para perguntas, mas aí eu lhes pergunto: o que vocês farão se te disserem que não entenderam nada desde o começo? Que nada faz sentido e mesmo perguntando a dúvida persiste? 
+A questão é que existem casos de professores cujas aulas não entendemos devido a sua didática falha. Percebo que normalmente o professor percebe que está tudo sub-entendido e que é tudo muito fácil e na explicação deixa muitos detalhes importantes passar e nós alunos não somos incentivados a perguntar pois como não estamos entendendo nada da matéria nem a dúvida conseguimos formular. E olha que eu sou um dos que mais pergunta nas aulas !
+Outra coisa extremamente estúpida é a mania de sempre despejar milhares de informações a cada aula ! Tudo na poli tem que ser na correria ! Por que raios que temos de ficar aguentando isso se a gente não usa nem 10% do que a gente viu????
+Se me perguntarem hoje sobre as matérias que vi nos primeiros anos da poli não vou lembrar nem 10% e olha que já passei nelas !
+O pior é ouvir do professor Baccalá, que dá aula de estocásticos, que a gente tem um embasamento matemátio muito fraco. É lógico que temos, pois está TUDO ERRADO!
+
+#48
+Leandro
+ &mdash; Eng Civil/4 ano
+17-05-2010 20:57
+Deve ser realizado uma verificacao na quantidade de credito/aula de todas as materias, pois existem muitas disciplinas que possuem creditos/aulas desnecessários(tome por exemplo aulas de Saneamento que possui muitos creditos e as aulas de Eng de Trafego, cujo curso é extremamente denso). Outra coisa são a quantidad de credito/trabalhos, realizamos vários trabalhos semestrais extremamente compridos, que requerem muito tempo e não ganhamos nenhum crédito/trabalho por isso, parece que o nosso esforco em realiza-los não é reconhecido por nenhuma disciplina(temos por exemplo Tecnologia da Construçao, Fundacoes, Vias de ransportes Terrestres, entre outros...)
+
+#47
+Felipe Pait
+ &mdash; eng elétrico - professor da Poli
+17-05-2010 10:44
+A regente da Orquestra Sinfônica da USP, Lígia Amadio, se formou na Poli em 1985. A brilhante carreira dela é um argumento definitivo a favor da maior flexibilidade e interdisciplinaridade dos cursos da Usp em geral.
+
+#46
+Eric Omine
+ &mdash; Engª Elétrica (Telecomunicações)
+17-05-2010 00:44
+Comentando o #41:
+Concordo muito com o item 7! Mas será que a interdisciplinaridade não é importante para quem ainda não superou a disciplinaridade? O ensino das matérias de forma isolada as torna um tanto desconexas da realidade, o que para um estudante de engenharia é muito desestimulante. Motivo pelo qual, também concordo bastante com o item 4.
+Tenho minhas ressalvas ao item 2. Gostaria, sim, que o currículo abrangesse tantas coisas, incluindo humanas, como acontece, inclusive, em MIT, Stanford, Carnegie Mellon (CMU), todas consideradas das melhores escolas de engenharia do mundo. Porém, algo que não acontece lá, é aumentar a carga horária. Pelo contrário, a CMU, por exemplo, no meio dos anos 90, chegou a diminuir a carga horária semestral de 360h para 344h, sendo que 360h já é 60h a menos do que um semestre comum tem na Poli. Além disso, na prática, a verdade é que num semestre de 28 créditos, nós, alunos, costumamos gastar mais do que a carga horária associada, devido aos trabalhos, relatórios e exercícios que não são vinculados como crédito trabalho, mesmo valendo nota. Tendo isso em vista, eu até concordaria com um semestre de 40h semanais, desde que esses 12 ou 16 créditos adicionais fossem de trabalho, e fossem associados de maneira realista.
+Também fica a deixa: estou no 4º ano, e não tenho um trabalho sequer este semestre. Se é para formar estagiários mais qualificados, não deveríamos ter mais trabalhos, menos provas e menos listas de exercícios, afinal de contas, ninguém vai cobrar listas de nós enquanto estagiários, não é mesmo?
+
+#45
+Eric Omine
+ &mdash; Engª Elétrica (Telecomunicações)
+17-05-2010 00:20
+Em resposta ao #43:
+Caro Thomas, aprecio sua resposta. Entendo sua colocação sobre não "poluir" o fórum com divergências de opinião. Mas, desculpe, discordo... como eu disse, não estou a propor a anarquia, mas uma discussão civilizada.
+Acredito que o debate vem apenas para engrandecer e enobrecer a causa da EC3. Ora, não estou aqui, simplesmente para dizer o que eu acho que deveria ser da EC3, porque a EC3 deveria ser construída, não por uma ou outra opinião isolada, mas pela comunidade, ou seja, por um conjunto de várias idéias que ganham coerência ao longo de uma discussão.
+Da mesma forma, gostaria de encorajar os outros participantes desse fórum, não apenas a darem suas opiniões sobre a EC3, mas também a lerem as outras sugestões, e pensarem sobre elas. Tenho lido as outras opiniões e gosto de ver o envolvimento dos politécnicos com a EC3.
+Quanto às suas colocações sobre a minha resposta, tentarei também esclarecer minha retórica da maneira mais sucinta que encontrar: usei o termo "criança" conforme a concepção de EC3 em que os alunos não tem a referida capacidade de decisão em relação ao caminho do curso, e não em relação à possível infantilidade dos alunos. Quis dizer apenas que se você não deixa os estudantes tomarem este tipo de decisão, eles ficam mal acostumados.
+Quanto ao que eu disse de poder ou não contar com os professores, quero apenas deixar claro que não quis dizer que não podemos contar com os professores, mas apenas que eles precisam equilibrar a graduação com outros interesses. Infelizmente, acabamos às vezes acabamos em segundo plano.
+Cada estudante deve receber a oportunidade de tirar o máximo de seu estudo na Poli, e acredito que se o estudante não pode equilibrar uma liberdade maior com uma boa orientação em seu curso, então ele não pode tirar o máximo do que oferece a Escola Politécnica, porque cada um aprende de forma diferente.
+Novamente, obrigado pela resposta. Espero que a EC3 gire em torno de mais discussões, que a EC3 seja construída com envolvimento e interesse de toda a comunidade.
+
+#44
+Guilherme
+ &mdash; Eng. Civil 2º ano
+16-05-2010 22:35
+A exemplo do que já é feito na UFSCar, seria interessante haver o atraso de um semestre das matérias de física em relação às de matemática, já que conforme mencionado, as matérias cobradas em Física estão à frente das de Cálculo.
+O fato de Física e Cálculo começarem juntos acaba sendo muito anti didático, sob o aspecto de que em uma universidade, pretende-se estudar os conteúdos a fundo, visando a aprofundá-los mais do que no ensino médio, e não apenas introduzir integrais e derivadas de maneira mais ornamental que prática.
+Outro caso problemático é �?lgebra Linear. Muitas vezes o foco da matéria fica muito restrito a um universo "IME" (com todo o respeito), sem uma intenção de mostrar as aplicações práticas, que vêm à tona só nas matérias que as usam, e essas aplicações acabam tendo de ser ensinadas pelos professores dessas matérias.
+
+#43
+Thomas C. G. de Vilhena
+ &mdash; Engenharia Elétrica - Ênfase em Sistemas Eletrônicos (4º ano)
+15-05-2010 19:28
+Resposta ao comentário #40:
+Caro Eric, vejo que o seu entendimento do conceito de "maturidade" não condiz com o que eu quis expressar no comentário #39. A definição formal de uma pessoa imatura é a de uma pessoa que ainda não atingiu o desenvolvimento completo. Em seu comentário, você relacionou "imaturo" com "infantil", e diz que alunos não devem ser tratados como crianças. Em nenhum momento eu me referi a alunos da EPUSP como "crianças" ou "infantis", apenas expressei minha posição de que os alunos da EPUSP não tem conhecimento suficiente para saber quais são as exigências impostas pelo mercado de trabalho a um engenheiro.
+Agora que já esclareci o significado de "imaturo", volto para sua crítica quanto à ideologia do meu comentário (#39). Você diz que pessoas mais preparadas não devem tomar decisões pelas mais imaturas. Esta afirmação é tão ampla que pode ser verdadeira em certos casos, e falsa em outros. No caso da definição da estrutura curricular de um curso de engenharia, creio que "pessoas mais preparadas" sejam mais aptas a estabelecer uma grade disciplinar que forneça uma formação de qualidade, se comparadas à "pessoas mais imaturas".
+Quanto à sua segunda crítica, na qual você aponta o "problema político" da minha colocação, você dá a entender que não se pode contar com a boa vontade dos professores na definição da EC3 devido aos interesses dos departamentos da EPUSP. Ora, se isto for verdade, claramente não é um problema da minha colocação, mas sim da conduta dos professores que não priorizam a graduação.
+Esta consulta pública tem o intuito de receber manifestações de opiniões acerca da EC3, e não de ser um debate. Logo, não devemos infestar este fórum com discussões devido à divergência de opiniões. É preciso que todas as opiniões sejam respeitadas, para que todos possam dar suas sugestões sem serem criticados. Eu me dei o direito de resposta apenas pelo fato de você ter se referido especificamente ao meu comentário.
+
+#42
+Cezar
+ &mdash; Eng. Elétrica 3° ano
+15-05-2010 19:03
+Cooperative Work
+We fully recognize the potential value of students working or studying together, and we do not have any objection to this kind of cooperation, so long as all participants are involved in all aspects of the work, not with each doing only a fraction of the assignment. In particular, when you hand in a paper with your name on it, we assume that you are certifying that the details presented are entirely your own work and that you played a substantial role at the conception stage. If part of the work was done cooperatively, that part should be indicated and the names of the students involved in the collaboration should be listed on each submitted paper.
+ocw.mit.edu/.../index.htm
+
+Bom, gosto da parte final do texto. Isso que eu chamo de incentivo ao trabalho em grupo! Se os professores começarem a colocar os trabalhos dessa forma, certamente terá um melhor resultado na integração dos alunos.
+
+#41
+Luiz Coelho
+ &mdash; Prof. Dr. - PTC - Poli
+13-05-2010 19:53
+1- Restabecer critério de avaliação do docente que o permita dedicar-se à atividades didáticas (elaboração de conteúdo para cursos, apostilas, livros didáticos, preparação e solução de exercícios, atendimento de alunos, palestras, preparação de experiências) sem ser prejudicado pela falta de produção de artigos, hoje considerados evidências de pesquisa.
+2- Recuperar o nível de ensino e exigência dos cursos de formação básica: matemática, física, química, português, economia, direito, re-instituindo a estrutura de aula teórica/exercícios e implantando uma prova geral de habilitação ao final dos anos básicos. Elevar a carga horária dos anos básicos para cerca de 40 horas, exigindo presença comprovada dos alunos.
+3- Se houver diagnóstico objetivo de que os alunos ingressantes não tem qualificação adequada nas matérias desejadas, solicitar alteração na estrutura do vestibular para elevar o nível de seleção ou, em última hipótese, criar cursos iniciais de "nivelamento" (pré-cálculo, pré-física, etc.). Nesse caso haverá necessidade de extender o curso por pelo menos mais um ano, já que a Escola Politécnica assumiria o papel da escola secundária complementar ("cursinho").
+4- Re-estruturar os cursos dentro das opções em "pacotes" formativos com estrutura coerente: aulas teóricas ou palestras, aulas de exercícios e aulas de laboratório. A avaliação deve ser feita sobre cada "pacote" e não sobre matérias isoladas.
+5- Re-instituir as exigências de pré-requisito (aprovação anterior em matérias) para garantir a progressividade na formação.
+6- Abolir mecanismos de avaliação fora do contexto normal dos cursos ("recuperação"). Recuperar-se significa receber novamente o treinamento e obter aprovação nas avaliações de final do curso.
+7- Interdisciplinaridade é muito importante para quem já superou a disciplinaridade. Os alunos devem ser formados pela aquisição de conhecimentos sólidos (conceitos e habilidades) e desenvolvimento de convicção intelectual dentro de disciplinas.
+8- O "mercado" quer contratar o melhor profissional pelo menor preço. Retardar ao máximo o oferecimento de nossos "pseudo-profissionais" (estagiários) ao "mercado", ou seja, estágio só no 5o ano, garantindo-lhes condições de melhor competividade e salário, não pela precocidade, mas sim pela excelência da formação superior que nos cabe fornecer a eles.
+
+#40
+Eric Omine
+ &mdash; Engª Elétrica (Telecomunicações)
+13-05-2010 18:41
+Em resposta ao comentário #39:
+Do meu ponto de vista, existem alguns problemas ideológicos e políticos na sua colocação.
+O problema ideológico é que não acredito que pessoas "mais preparadas" devam tomar decisões pelas "mais imaturas". Só de escrever essa frase, já sinto coceiras de tanto que eu discordo dela... se você tratar os alunos como crianças, eles todos agirão como crianças. Trate os como adultos, e muitos agirão como adultos, alguns agirão como crianças. De qualquer forma, independentemente disso, ninguém está propondo que os estudantes não devam ser orientados nessas escolhas, até porque, os currículos das escolas de engenharia são regulamentados por outras instituições, imagino que pelo CREA - não estou lembrado agora como funciona exatamente.
+O problema político é que você conta com a boa vontade dos "professores experientes", mas por mais que os professores tenham tal boa vontade (muitos têm, muitos não têm), ainda há interesses dos próprios departamentos que acabam se colocando acima do interesses do ensino para graduação. �?lias, a opinião de que a graduação não é prioridade na Poli é tão forte, que foi necessário colocar o tópico "valorização da graduação" neste fórum! Além disso, a verdade é que nem os professores concordam sobre o que deve ou não estar no currículo, e muitas vezes as divergências geradas por isso, deixam o currículo sem coesão.
+Por outro lado, se você tiver alguma idéia do que você gosta mais na sua área, e tiver a liberdade para direcionar o seu currículo para essa área, seu currículo será muito mais coerente, uma matéria se relacionaria com a outra, porque você vê interesse nelas. Além disso, se você levar em consideração que os alunos não são todos iguais, faz sentido permitir que eles direcionem o curso para algum interesse deles.
+Ninguém aqui está propondo a anarquia, mas um modelo mais aberto. Eu, em específico, tenho simpatia pelo modelo "liberal arts" adotado pelas grandes escolas dos EUA, inclusive MIT, Stanford, Carnegie Mellon, etc...
+
+#39
+Thomas C. G. de Vilhena
+ &mdash; Engenharia Elétrica - Ênfase em Sistemas Eletrônicos (4º ano)
+10-05-2010 23:54
+Vejo que muitos participantes do fórum defendem a idéia de que o aluno da EPUSP tenha mais liberdade na escolha das disciplinas que irá cursar, de acordo com suas preferências. Contudo, discordo desta posição.
+A estrutura curricular de um curso de engenharia deve ser preparada por professores/profissionais experientes, que possuem vivência na engenharia, e que podem apontar claramente o que se exige de um engenheiro atualmente.
+Um aluno de graduação não tem maturidade suficiente para saber quais competências são exigidas de um engenheiro. Consequentemente, permitir que o aluno de graduação defina grande parte de sua estrutura curricular pode acabar deixando lacunas em sua formação.
+No que diz respeito às optativas, defendo que apenas as eletivas sejam oferecidas, de modo a aperfeiçoar o conhecimento do aluno em sua área de formação. O oferecimento de optativas livres (tanto na EPUSP como em outras unidades da USP) recai sobre as reclamações de muitos alunos que estão participando do fórum, que consideram supérfluas certas disciplinas obrigatórias por não serem relacionadas às suas habilitações.
+Finalizando, gostaria de agradecer aos organizadores desta consulta pública pela oportunidade de poder expressar minha opinião acerca da EC3.
+
+#38
+Eric Omine
+ &mdash; Engª Elétrica (Telecomunicações)
+10-05-2010 23:12
+À comissão que se encarregará de criar a EC3, digo que tanto quanto ler estas opiniões aqui colocadas, os senhores deveriam ler o artigo "O Americana, Outra Vez" de Richard Feynman, escrito nos anos 50, publicado no livro "O Senhor Está Brincando, Sr. Feynman?". (O livro está disponível em inglês no site 
+www.gorgorat.com/
+, e um bom trecho do artigo traduzido para português está disponível em 
+physicsact.wordpress.com/.../...
+).
+Feynman é ganhador do Nobel de Física de 1965, e certamente não é uma voz a ser ignorada, ainda mais em se tratando de ensino, que sempre foi uma de suas paixões.
+O artigo de Feynman crítica o sistema de ensino de ciências brasileiro (da década de 1950!) por não levar os estudantes ao raciocínio, uma crítica que depois de 50 anos continua tão atual que é espantoso. Mais espantoso ainda, que este problema exista na Poli de forma tão escancarada e a maioria esteja tão acomodada com isso, ou talvez nem enxergue o problema - afinal de contas, estamos acostumados com esse método há tanto tempo.
+Enfim, limito a isso, e deixo a crítica para Richard Feynman, além de um trecho do artigo, contando sobre uma aula que Feynman deu para alunos brasileiros:
+"Depois de muita investigação, finalmente descobri que os estudantes tinham decorado tudo, mas não sabiam o que queria dizer. Quando eles ouviram “luz que é refletida de um meio com um índice�?, eles não sabiam que isso significava um material como a água. Eles não sabiam que a “direção da luz�? é a direção na qual você vê alguma coisa quando está olhando, e assim por diante. Tudo estava totalmente decorado, mas nada havia sido traduzido em palavras que fizessem sentido."
+
+#37
+Paulo Cordovil
+ &mdash; Eng. Elétrica Energia e Automação
+07-05-2010 23:56
+Em muitas matérias que cursamos é fácil de observar que a visão atual da escola para com o aluno é quase de uma máquina que seja capaz de solucionar problemas(Ex. Estatística ). Os conceitos teóricos são muitas vezes deixados para trás e nossas provas são simplesmente aplicação de fórmulas. Assim sendo os alunos não recebem um estimulo da escola a aprenderem e questionarem o conhecimento que está sendo "fornecido" durante as aulas, geralmente eles preferem a forma que dá mais resultado nas provas que é decorar qual a fórmula certa que se usa em cada caso específico sem, muitas vezes, compreender do que se trata o assunto. 
+O Ensino na universidade deve valorizar e fomentar de forma mais ativa o "verdadeiro" conhecimento, a compreensão dos assuntos. Através da atual forma que os conteúdos são abordados e cobrados, os alunos preferem muito mais decorar provas de anos anteriores do que compreender e realmente estudar a matéria. 
+Acredito que um agravante para que isso venha ocorrendo venha do fato da escola querer abordar muitos conteúdos extremamente complexos em pouco tempo, o que torna praticamente impossível o estudo profundo do aluno sobre tais temas.
+
+#36
+Eric Omine
+ &mdash; Engª Elétrica (Telecomunicações)
+04-05-2010 09:47
+De uma forma geral:
+- A EC3 deve ser mais flexível, oferecer mais optativas (às ênfases que pouco tem). A Poli deve confiar nos estudantes para escolherem o que vão fazer de seus cursos - a idéia é semelhante ao do modelo \\\"liberal arts\\\".
+- A EC3 deve vincular pesquisa e extensão ao ensino, de modo a equilibrar o tripé, fortalecer o ensino da prática da engenharia e aumentar a participação dos estudantes em mais atividades acadêmicas.
+- A Poli deve acabar com práticas \\\"paternalistas\\\". A mais evidente são as aulas \\\"transferência de conteúdo\\\". Aula não é tutorial, lousa não é aula e copiar da lousa não transfere - como mágica - o conhecimento do professor ao aluno. O estudante deve ler a bibliografia, a aula não é para passar o conteúdo, é para contextualizar e fazer raciocinar. Richard Feynman criticou nosso método de ensino nos anos 1950 e ainda insistimos tanto no erro que muitos nem enxergam mais o erro, já é um costume ter aula assim.
+- Outra prática ruim que deve acabar é matricular automaticamente os estudantes nas matérias. Esta prática é reflexo de ECs que vêem o estudante como incapazes de decidir quando e como querem cursar suas disciplinas - apesar de que os estudantes podem alterar suas matrículas, isso é desestimulado, muito. Na mesma medida, a Poli deve acabar com o Ciclo Básico único (para todas Grandes �?reas). Na prática, o Ciclo Básico impede que o estudante direcione seu curso para algo que lhe interesse mais, que ele faça optativas, etc.
+- O generalismo da EC2 é um \\\"Frankestein\\\": várias disciplinas de áreas diferentes que fazem pouco sentido como um curso. A EC3 deve dar mais coesão a esse generalismo, costurar disciplinas, de modo que os estudantes sempre tenham perspectivas para aplicação de seus conhecimentos.
+- O generalismo da EC2 é redundante: disciplinas mal dadas (é a opinião \\\"popular\\\" entre os alunos) como Química Tecnológica Geral e Noções de Mecânica dos Fluídos não adicionam nada. Em parte, porque não estão costuradas com nada, estão jogadas na EC2. Mas de qualquer modo, se for para ter matérias que não adicionam nada, então é melhor não ter essas matérias ou revê-las seriamente.
+
+#35
+Bruno Peruchi
+ &mdash; Eng. Ambiental
+02-05-2010 19:11
+Acredito que a eficiência de um sistema aumenta junto com a sua liberdade. É necessário lembrar que embora cada pessoa tenha a idéia de qual é o sistema ideal a todos, a verdade é que não é possível controlar como cada pessoa gasta o seu tempo, o que aprende ou o que fará com a sua vida\/carreira. Como cada pessoa tem a idéia de qual é o seu sistema ótimo, e como isso varia para cada um, não é possível uma definição que seja desejável a todos. É necessário que se dê liberdade ao aluno sobre como utilizar o seu tempo. Em resumo:
+- A escolha das disciplinas a serem cursadas deve ser muito mais livre do que é hoje. A existência de uma formação básica comum é necessária, mas a partir daí deve-se deixar o aluno escolher o seu caminho.
+- Prova nada mais é do que obrigar o aluno a gastar x horas do seu tempo colocando conhecimento de curto prazo na sua cabeça e mais y horas despejando elas no papel. Atividade qual não possui utilidade para ninguém, nem para o aluno que não aprende nada, nem para o professor que precisa também gastar seu tempo. Avaliação por trabalhos teóricos e práticos seria mais benéfico a todos.
+- Existem alunos que aprendem melhor um conhecimento estando sentados em sala de aula e existem aqueles que aprendem melhor lendo um livro sozinho. Impor um determinado método a todos é forçar que várias pessoas optem pela opção menos eficiente. Presença em sala de aula deveria ser repensada.
+
+#34
+Bruno
+ &mdash; Mecânica
+01-05-2010 22:40
+É muito triste notar a desmotivação que acomete grande parte dos politécnicos. Adoramos desmerecer outras faculdades, mas o fato é que vivemos boa parte do curso frustrados!
+Uma maneira de motivar os alunos é flexibilizar a estrutura curricular, dando mais liberdade ao estudante para se focar em assuntos e atividades que lhe interessam, extraindo dele o máximo de sua satisfação e criatividade.
+Não é tão problemático que falte ao aluno um determinado conhecimento. O que não deve lhe faltar é a motivação e a estrutura necessárias para que ele seja produtivo e consiga superar eventuais dificuldades.
+
+#33
+Fabio Soares
+ &mdash; Engenheiro Civil - POLI
+27-04-2010 22:02
+Por ter vivenciado a POLI e estar no mercado de trabalho há alguns anos, gostaria de contribuir com algumas sugestões \/observações: 
+- sugiro que se estabeleca um professor orientador (ou alguém) que acompanhe o aluno com mais proximidade ao longo do curso.
+- em muitas aulas transparece que o assunto é lecionado com demasiado atropelo, sempre o assunto está atrasado. 
+- Disciplinas não se conectam, parece que propositalmente o Circulo de Mohr da Mec. dos solos não coincide com o das Resistências.
+- Quão engrandecedoras são as visitas técnicas, pena que são tão poucas.
+- A biblioteca não pode abrigar apenas livros, tem de abrigar pessoas. Falta um código de conduta e respeito dos usuários. Não adianta expor dúzias de livros muito antigos, ninguém vai abrí-los, só ocupam espaço. E o que dizer das bibliotecas onde não há ventilação adequada? A biblioteca da civil é um péssimo exemplo de conforto e por isso é tão pouco frequentada.
+- O curso de civil da POLI é demasiadamente voltado para EDIF�?CIOS. Caros professores de PCC, precisamos de ensinamentos de barragens, túneis, rodovias, PORTOS, etc.
+- Em resumo, a faculdade para ser proveitosa ao aluno disciplinado tem de ser uma EMPRESA. O trabalho (estudo) tem de ser remunerado com o conhecimento. Infelizmente, caros, a engenharia civil brasileira é corrupta, reflexo do país. Para mudarmos isto, só arrumando a ESCOLA.
+
+#32
+Natália A. P. Rodrigues
+ &mdash; Engenharia Civil - 3o ano
+24-04-2010 17:15
+É necessário saber interpretar um projeto de uma obra civil. Não sei se há essa dificuldade nas outras áreas da Poli, mas não há abordagem alguma em como interpretar um projeto. Há vários tipos, mas o único que vemos de uma forma razoável é o de topografia (em Informações Espaciais II) e o viário (em PTR2378).
+
+#31
+Juliana
+ &mdash; Eng Química
+22-04-2010 12:14
+Apoio totalmente a abertura da grade curricular da Poli a mais optativas dentro da USP.
+É preciso enfatizar, portanto, que além dessa abertura ser feita, é preciso SINCRONIZAR OS HORÀRIOS de aula da Poli com o resto da USP. Por exemplo: se um aluno tem uma janela logo de manhã das 7h30 às 9h20, ele não conseguiria fazer uma optativa em outra unidade que tivesse aula das 8h ás 10h, pois haveria, então, um conflito de 40min entre a sua aula da optativa e a sua aula da Poli. 
+Da maneira como está, mesmo que as optativas sejam incentivadas, elas seriam possíveis apenas no período noturno, o que é inviável para muitos alunos
+
+#30
+Henrique Povedano
+ &mdash; Produção
+20-04-2010 21:15
+Também deveriam ser eliminadas matérias como PQI, PNV e PMT, que simplesmente não agregam nada ao conhecimento do aluno, tanto pela maneira como são dadas, com aulas em slides e professores despreparados, como pela total falta de continuidade nos semestre subseqüentes. Tratam-se de aulas que são jogadas no lixo. Sugiro incluir no espaço aberto pela remoção dessas três matérias mais aulas ou matérias de matemática. São necessários 6 créditos de cálculo no segundo semestre também, além de toda uma apresentação de teoria de determinantes em Algelin para permitir mais demonstrações de teoremas.
+Além disso, o curso de física precisa de uma total reformulação. Basta observar a freqüência média nas classes de qualquer Física (I, II,..) para perceber que algo está totalmente errado. Os professores são péssimos. Engenharia está intimamente ligada com Física, e um curso ruim de física prejudica diretamente a formação dos engenheiros. Sugiro uma seleção de professores e talvez até aulas de física ministradas por professores da Poli, que possuem uma didática melhor, além de poderem transmitir conhecimentos mais ligados à engenharia. 
+Resumo: mais matemática (demonstrações e conceitos), eliminação de PQI, PMT e PNV e mudança total em Física.
+
+#29
+Henrique Povedano
+ &mdash; Produção
+20-04-2010 21:15
+Primeiramente, acredito que a Poli precisa de mais matérias de matemática, uma vez que muitos conceitos que não são dados em cálculo ou álgebra linear são necessários para outras matérias.
+Tome, por exemplo, Física II. São necessários conhecimentos de equações diferenciais e de coordenadas não-cartesianas não ensinados no primeiro semestre. Estes são dados pelos professores de Física, mas de uma maneira muito rápida e sem nenhuma base teórica. Além de prejudicar todo o andamento da matéria em si, são criados conceitos equivocados que são prejudiciais no futuro. Em Mecânica A, também é exigido cálculo vetorial, não ensinado no primeiro semestre.
+Além de mais conceitos, é necessário um aprofundamento nos que já são dados. Demonstração de teoremas, por exemplo, são essenciais, mas não são apresentadas. Logicamente, isso cria a necessidade de mais aulas, além de possivelmente novas matérias.
+Deve-se também eliminar o ensino de um mesmo conceito duas vezes. Em Mec A e em PEF2202 aprende-se, por exemplo, a resolução de treliças e de reações de apoio, quando só seria necessário aprender uma vez. Há um desperdício de tempo. continua->
+
+#28
+Andréa Haritçalde
+ &mdash; 3 ano eng civil
+20-04-2010 14:37
+-pluralização das formas de avaliação das matérias
+-avaliação contínua dos professores gerando bônus ou restrições segundo seu desempenho
+-abertura de matérias voltadas a projeto para solucionar problemáticas atuais e desenvolver o empreendedorismo
+-diminuição dos créditos em aulas delegando mais estudo e trabalho ao aluno (autodidatismo que já ocorre na prática)
+-Incentivo a educação continuada mediante apresentação de projetos de iniciação e mestrados quando pertinentes dentro da aula
+-abertura de conteúdos de temáticas específicas (palestras etc) na internet
+-Abordagem de temáticas como ética, gestão de projetos (leitura de projetos! politécnico não sabe ler projeto!) etc.
+-formação generalista básica com especialização por optativas
+-créditos livres a serem cursados fora da POLI
+-horas obrigatórias mínimas de estágio em uma área de engenharia, mas sem impedimento de assinar estágios para áreas que o professor não julgue pessoalmente pertinente
+-reavaliação da grade e atualização da mesma mediante consulta de pesquisadores e profissionais do meio
+-manter o sistema de entrada nas grandés áreas como é feito hoje
+-desburocratização e maior consulta aos alunos sobre aparatos técnicos 
+-promoção de alguns dias de palestras sobre \\\"o que está acontecendo na POLI em termos de pesquisa\\\" onde o aluno será liberado da aula para assistir as mesmas
+
+#27
+Leonardo Leite
+ &mdash; eng. elétrica, comp
+19-04-2010 08:37
+Um ponto que considero muito importante a ser colocado de alguma forma é sobre as provas: em geral, principalmente nos primeiros anos, elas cobram mais cálculos diretos, e o que acaba acontecendo é que quando chegamos ao 5 ano, naturalmente não lembramos desses \\\"detalhes\\\" de contas, sendo que na verdade, em geral, isso acaba não sendo utilizado mesmo; no entanto, nos deparamos em situações em que seria importante entendermos os conceitos chaves (importantes) sobre algumas matérias que tivemos, e percebemos que somos incapazes de lembrar desses conceitos.
+Ou seja, seria muito importante passar de um modelo de prova que incentivasse o aluno mais a refletir e entender o conceito das coisas do que exercícios que são treinados com a prática de \\\"ler provas\\\" dos anos anteriores.
+
+#26
+Sérgio de Paula Pellegrini
+ &mdash; Engenheiro Mecânico\/2009
+18-04-2010 01:31
+A proposta de levantar a opinião da comunidade politécnica é muito interessante (e talvez até ousada, por ser algo pouco usual).
+Mas é importante que as opiniões não sejam usadas para alavancar ideias de nenhum grupo em específico.
+
+#25
+Leandro Cordeiro David
+ &mdash; Engenheiro da Computação Cooperativo
+17-04-2010 13:18
+O último ano do curso cooperativo de engenharia da computação tem matérias muito \\\"pesadas\\\" que impossibilitam os alunos a se dedicarem ao TCC e à transição ao mercado de trabahlo, buscando boas oportunidades e participando de processos seletivos.Especial atenção à disciplina de Compiladores , de grande importancia no curso e que está presente no último quadrimestre do último ano gerando conflitos e stress desnecessários aos alunos. É uma grande unanimidade entre os alunos que esta disciplina deve sair do último ano e ser lecionada no 3o ou 4o anos.
+
+#24
+Marcus Vinicius
+ &mdash; Eng. Ambiental quarto ano
+14-04-2010 11:48
+Conseguir concretizar uma base real de conhecimentos para TODOS os politecnicos, atraves de um ciclo básico de dois ou três anos. Proponho discussões sobre quais conhecimentos um engenheiro precisa dominar (não digo saber de cor e profundamente, mas ter familiaridade com a linguagem e os modelos do assunto), em qualquer especialidade, em nível técnico, econômico e socioambiental.
+
+#23
+Luís Fernando Mercier Franco
+ &mdash; Engenharia Química 5ºAno
+13-04-2010 22:22
+Acredito que se assumida formalmente a preferência pela formação de um engenheiro generalista, deve-se reformular o ciclo básico de modo a verdadeiramente prover esta educação multidisciplinar. Proponho algumas alternativas: exclusão da matéria de Química Tecnológica Geral e inclusão de Química Geral I e II a fim de nos assemelharmos às estruturas curriculares atuais dos grandes centros de excelência estrangeiros; redução dos créditos em matérias obrigatórias permitindo que o aluno desde seus primeiros instantes na universidade experimente de fato a vida acadêmica em seu todo podendo cursas disciplinas de outras áreas que achar interessante em sua formação; mapear quais disciplinas da EC-2 têm ementas redundantes, isto é, mapear possíveis sobreposições e eliminá-las a fim de melhor aproveitar o tempo do aluno; considerar a iniciação científica como atividade inerente ao aluno de uma escola científica assim concedendo créditos-aula pelo tempo despendido em tal atividade; explicitar a extensão universitária na própria estrutura curricular contemplando o aspecto social que o engenheiro politécnico deve ter em sua formação já que o seu curso tem sido possível graças ao esforço de toda a sociedade que paga seus tributos e espera desta escola a proposição de soluções para muitos dos problemas brasileiros.
+Estas atitudes se formalizadas na estrutura curricular podem nos levar a novos caminhos dentro da educação em engenharia, mas depende de esforços de toda a comunidade politécnica - docentes, funcionários e discentes - deixando de lado interesses unilaterais que não condizem com o saber tratar da res-pública (coisa pública).
+Esta oportunidade que nós estudantes temos hoje de opinar sobre a nova estrutura curricular é de fundamental importância à escola e fico grato por poder expor minhas opiniões.
+
+#22
+Danyllo Guedes
+ &mdash; Engenharia Naval\/ Engenheiro Naval
+13-04-2010 20:39
+Continuação
+É ruim deixar o aluno assistindo aula durante 6 horas, apenas absorvendo o conhecimento passado pelo professor, a visão do professor, sendo o aluno pouco ativo, apenas uma caixa recpetora que informações, não aprendendo a desenvolver a sua.
+Acho que deveria levar o aluno à engenharia por exemplo: está tendo uma aula de camada limite de mecânica dos fluidos, por que não apresentar um trabalho de aerodesign, modelagem em CFD, etc. Ter aula de vibrações, mostrar alguma coisa do baja, propor exercicio praticos em que você deverá escolher o que usar de teoria, propor metodologia de resolução, etc, deixar o aluno pensar pra maturar seu conhecimento, enfim deixar a pessoa c achar como engenheiro e não entupindo-a de informações.
+Acho que as coisas deveriam ser mais ligadas atividades extracurriculares e as obrigatórias, deveriam caminhar juntas.
+Enfim, acho que a curiosidade move o engenheiro, que precisa ser mais despertada.
+
+#21
+Danyllo Guedes
+ &mdash; Engenharia Naval\/ Engenheiro Naval
+13-04-2010 20:38
+Estou no finalizando o curso de engenharia naval, comecei a trabalhar no meio do terceiro ano. Já trabalho há quase três anos com engenharia, realmente senti e comecei a dar conta da falta de uma coisa na Poli. Acho que que o curso busca desenvolver o aluno, fazendo um curso de grande dificuldade, mas peca em um lado, ele acaba tornando o aluno em um resolvedor de contas. Primeiro lugar, por exemplo já fui um desses: o velho aluno decorador de provas. É tanta matéria em termos quantitavos que é exposto ao aluno, que não possui tempo de maturar seu conhecimento. Acabando de o aluno recorrer a ao posto de decorador das coisas, ou entender apenas para resolver um dado exercício específico que ele acredita que irá cair na prova. Para ser um formador de opniões, discutir engenharia com alguém, é preciso ter um bom fundamento teórico, na vida prática você não irá resolver aquele exercício específico, irá questionar posso usar esta teoria, ela possui alguma restrição, em quanto estou pecando no meu erro se considerar isto? Em que uso isso na vida prática? Isso resolve aquele problema lá fora? Na prova deu um resultado: o rendimento do motor em um ciclo termodinâmico deu x por cento. Aquele valor não é discutido, é bom ou ruim? É absurdo? Faz sentido?
+O resultado é apenas um número em que o professor irá colocar um X ou um certo, infelizmente.
+Falta incentivo também para deixar os alunos interessados, tô aprendendo mas aonde aplico isso?Acho que falta interdisciplinaridade entre as matérias também.
+
+#20
+André
+ &mdash; 5° ano Eng. Naval
+13-04-2010 20:11
+Um dos grandes problemas enfrentados na POLI é o número extremamente alto de alunos que desistem de trabalhar com engenharia e ficam o restante do curso fazendo de tudo para se formar e ir trabalhar nas mais diversas áreas: Mercado Financeiro, Consultoria Estratégica, Banco, etc. Esse fator leva a uma maior procura pelo curso de Engenharia de Produção, que dentre todos oferecidos, é o que mais se distancia da engenharia. Apesar disso ainda há muitos que cursam Produção que estão desmotivados com as matérias mais técnicas do seu curso. Por causa desses alunos, a qualidade dos cursos e a reputação dos engenheiros da POLI vem caindo nos últimos anos. De forma a evitar tudo isso, e mantermos o padrão de excelência pelo qual sempre fomos conhecidos, faço duas sugestões:
+Sugiro que o curso de Engenharia de Produção volte a ser mais técnico, realmente um curso de Engenharia de Produção Mecânica como era antigamente, sem matérias de Finanças e etc. 
+E como alternativa para os alunos que buscam essas áreas, tenho uma sugestão radical: a criação de uma nova especialização, que após o ciclo básico, é calcada principalmente em negócios, em finanças, em estratégia, em gestão, em administração, em formação de líderes, em empreendedorismo, um curso de Business School, algo como \\\"Engenharia Geral\\\", com vagas suficientes para absorver todos os alunos que queiram. Não estou sugerindo a construção de um novo prédio nem a contratação de novos professores, apenas redirecionar os professores e alunos para esse novo curso. Com a evasão de alunos das outras habilitações, eventualmente poderá ser feita uma redistribuição de salas para este curso, aproveitando a infra-estrutura de salas já existentes na POLI. Professores qualificados nós temos, muitos deles na Produção, mas não só lá, temos o José Lerosa Siqueira que é da Civil para empreendedorismo, por exemplo. Concluindo, tais alunos não precisam de uma certificação do CREA para uma habilitação em engenharia, pois não irão trabalhar com engenharia. Dessa forma a POLI mantém-se como uma escola que forma Engenheiros e Líderes, só que alguns se formarão apenas líderes.
+
+#19
+Lucas Pedote
+ &mdash; Engenharia Química
+13-04-2010 17:48
+Boa tarde. Estou no terceiro ano de graduação da EPUSP e sempre pensei em uma reduçao do tempo de aula visando maior aproveitamento da mesma.
+1h40 é tempo excessivo e fica mais facil de dispersar a atenção.
+Grato pelo espaço
+
+#18
+Gustavo Ramires
+ &mdash; Engenharia Elétrica
+13-04-2010 17:32
+Os maiores e mais importantes (para suas nação, inclusive - tendo em vista que a EPUSP é uma instituição pública) institutos de tecnologia e escolas de engenharia mundialmente se destacam basicamente por um quesito essencial: o empreendedorismo de seus alunos. O aluno da Escola Politécnica sem dúvida estará capacitado a ser um excelente profissional; porém falta um senso interno de incentivo ao empreendimento empresarial e à inovação técnica, empresarial e científica.
+
+#17
+Leandro A. Silveira Artese
+ &mdash; Engenheiro de Sistemas Eletrônicos
+13-04-2010 13:37
+Gostaria que fosse revista a necessidade do pré-requisito de PTC2359 para o curso de PTC2459. Apesar dos assuntos serem ligados, o foco de cada disciplina é bem diferente. Sei que alguns professores concordam com isso, mas não sei como é feita a remoção do pré-requisito.
+
+#16
+Gustavo Fabricio
+ &mdash; Eng. Ambiental
+13-04-2010 12:37
+Dentre as inúmeras sugestões, gostaria de salientar:
+- menor carga horário em aulas e mais tempo extra-curricular alinhado à estágio (importantíssimo para consolidar conhecimento teórico com o mundo fora da \\\"torre de marfim\\\");
+- Revisão TOTAL das matérias do biênio (muitos alunos têm dificuldades e não são assistidos, virando motivo de chacota por parte dos professores. Se quiser entender assista à uma prova de numérico WEB e depois veja a lista de quem não conseguiu matrícula. Alguma coisa está errada... e não são os alunos);
+- Aproximação de professor ao aluno;
+- Apresentar aos alunos o que acontece no mundo exterior e motivá-los desde o início, mostrando oportunidades e procurar um direcionamento. Muitos somente se encontram no fim do curso.
+
+#15
+Fernando
+ &mdash; Eng. Produção
+13-04-2010 10:05
+Saímos do curso com a sensação de que fomos treinados para sermos empregados de grandes CIAs. A Escola precisa começar a formar empreendedores também. Com relação aos comentários dos colegas, enquanto a POLI não utilizar outras métricas além daquelas propostas pela CAPES para avaliar os docentes, a didática continuará em último plano.
+
+#14
+Marcus Vinicius
+ &mdash; eng. ambiental 4º ano
+12-04-2010 23:47
+A questão do número de créditos aula. Não é levado em conta, em nenhum momento, o tempo de estudo que o aluno deveria ter para consolidar os conhecimentos. Visto que exista a valorização das atividades extra-curriculares, dever-se-ia buscar uma maneira de quantificar as \\\"horas de estudos\\\", e usar esse parâmetro como balizador dos créditos-aula por disciplina e por semestre.
+
+#13
+Rogério Chung
+ &mdash; Estudante de Engenharia Eletrônica
+12-04-2010 23:12
+Acho o curso da poli, pelo menos a que curso, muito redundante em vários aspectos. No 1º semestre do 1º ano temos física I que aborda principalmente mecânica, logo em seguida no semestre seguinte temos o curso mecânica A que aborda justamente mecânica. Em física II vemos ondas com equações diferenciais malucas e em circuitos I vemos as malditas equações diferenciais iguais aos de física II, em física III vemos eletromagnetismo, mas temos um curso de eletromagnetismo também. Vemos transformada de Laplace e Fourier em várias matérias sempre de forma superficial e com visão totalmente prática sem o devido respaldo teórico para entendermos bem o assunto. Em todas as matérias que utilizamos transformadas de fourier, laplace, z , etc.... temos uma pequena revisãozinha antes. Será que não tem como unificar tudo isso? Fazer uma grade decente e acabar com essa mesquinhez dos departamentos de cada um querer dar a matéria do jeito que bem entender??? Que deixem as transformadas para o pessoal do IME oras, e faça o pessoal de física parar de querer ensinar como funciona tudo em 4 físicas!!! Por que vemos mal vistos tantas vezes se podemos ver bem uma única vez??? Isso é uma tortura!
+
+#12
+Felipe Mesquita
+ &mdash; Engenharia Civil
+12-04-2010 22:14
+Acho que seria interessante uma interdisciplinaridade maior entre as disciplinas. Ao meu ver o ideal seria ter cada semestre com disciplinas intimamente relacionadas, que explorassem ao máximo os laborátorios e os recursos computacionais, aulas que exemplificasse os problemas do dia-dia utilizando recursos multimídias, documentários. Faríamos do curso um grande organismo e não partes faceladas... Somaria também à grade, créditos optativos livres e extracurriculares (8optatvas totais= 4 do curso + 2 da poli +2 da USP, já que temos uma Universidade, porque ficarmos restritos a uma Faculdade!)
+
+#11
+Júlia
+ &mdash; Eng. civil
+12-04-2010 21:49
+Os professores deveriam ter aulas de pedagogia antes de assumirem a frente da sala. Grande parte dos professores não sabe como transmitir o conhecimento de forma eficiente, gerando aulas maçantes e pouco produtivas.
+
+#10
+tadeu ferreira de sousa júnior
+ &mdash; Engenharia Mecatrônica
+12-04-2010 21:31
+Sem dúvida há uma necessidade mais do que urgente de se mudar radicalmente o primeiro ano da graduação. Este, por ter certas disciplinas completamente mal organizadas e outras absolutamente dispensáveis, acaba por tornar o primeiro ano desanimador para muitos dos ingressantes. O curso, que é integral, já deixa o aluno sem muito tempo para enfrentar o tráfico de são paulo, comer, resolver problemas particulares, viver e ainda estudar. Surpreende sobremodo o desgosto que os estudantes tem quando relembram o primeiro ano. Portanto, uma carga horária menor permitiria ao aluno ter tempo para um estudo de qualidade, pois hoje muitas provas são feitas à base da memorização.
+
+#9
+Renato Naville Watanabe
+ &mdash; Engenharia Elétrica-Automação e Controle
+12-04-2010 21:12
+Acredito que a base de um novo currículo deveria ter as disciplinas básicas mais fortes do que atualmente e conforme o curso vai chegando nos últimos anos, cada vez mais disciplinas optativas. O final do curso deveria conter basicamente disciplinas escolhidas pelo aluno (nenhuma obrigatória)
+
+#8
+Felipe
+ &mdash; Eng. Naval
+12-04-2010 20:39
+Naval: para um curso que é pioneiro no brasil e está em franco crescimento, o departamento está completamente desligado do mercado. Não estar em uma cidade de mar deixa a situação ainda mais crítica.
+Não existe nenhum incentivo por parte do departamento em trazer o mercado mais próximo do aluno, seja por meio de aulas práticas, visitas técnicas ou simplesmente em informar o mercado da disponibilidade de profissionais formados. As oportunidades de estágio na área que vi foram conseguidas por mérito dos próprios alunos, por \\\"destino\\\" ou por um contato distante de professores. Sem mostrar ao aluno o que é a vida naval durante a formação, voce dificilmente tem como exigir a sua permanência na pós-graduação e\/ou sua dedicação na área depois de formado.
+
+#7
+Rafael
+ &mdash; Engenharia Mecanica
+12-04-2010 20:39
+Estou cursando o primeiro semestre da Poli ainda mas já deu pra perceber que na materia de PNV, por exemplo, a atividade de engenharia passa muito além das atividades práticas. Enquanto em outras faculdades, esta materia oferece uma oportunidade do aluno exercer o seu primeiro contato direto com a profissão, na Poli nós estamos muito presos ao aspecto teorico, de pesquisa, analise dos dados e estudo de hipoteses dentro da sala da aula. Acredito que é preciso propor atividades que façam o aluno colocar a mão na massa de fato.
+
+#6
+Rodrigo Cunha
+ &mdash; 1º ano engenharia - POLI
+12-04-2010 19:32
+Os horários atuais, com aulas começando às 7:30h em alguns dias, não condizem com a situação de São Paulo. Alguns alunos têm de acordar absurdamente cedo, devido ao tempo que demoram para chegar na faculdade. Sendo de horário integral, a POLI poderia jogar o início das aulas para um pouco mais tarde (8:20, por exemplo) e compensar esse horário com uma aula a mais à tarde, ou coisa do tipo, o que já faria uma grande diferença
+
+#5
+Tiago
+ &mdash; Engenharia Civil
+12-04-2010 18:58
+O curso de eng. civil possui uma grande muito travada, com nenhum optativa livre um excesso de créditos. Isso chega a ser prejudicial pois trava a possibilidades de estágios para os alunos, além de prejudicar qualquer outra atividade extracurricular e não permitir ao aluno nenhuma diversivicação durante o seu curso.
+
+#4
+Juliana A.
+ &mdash; Engenharia Civil
+12-04-2010 18:23
+Acredito que o sistema de avaliação por provas é muito inadequado para a civil. Acho que deveríamos ter ao invés disso trabalhos abrangentes, sem ser em grupo, para que cada aluno faça o trabalho. 
+O trabalho de um engenheiro civil se baseia muito em consultas e por isso, eu acho que realizar provas, cobrando que se decore uma parte do conteúdo só incentiva o aprendizado de ocasião obsoleto, aquele que você esquece 20 minutos depois da prova.
+Se cada aluno tivesse um trabalho ou projeto (exigente) por semestre da matéria o aprendizado seria muito maior.
+
+#3
+Guilherme
+ &mdash; Engenharia mecânica
+12-04-2010 18:06
+O que é mais crítico no momento não é o currículo em si, mas sim os professores das matérias. É triste, mas os professores bons e com o mínimo de vontade de ensinar eram a grande minoria, tornando o processo de aprendizagem muitas vezes auto-didata e maçante. Creio também que os trabalhos semestrais deveriam ser revistos, alguns não aplicavam absolutamente nada do que foi aprendido e exigiam o aprendizado de um assunto que não é interessante se você não for da área, especificamente, para se ter um desempenho minimamente aceitavel.
+
+#2
+Anderson Cardoso
+ &mdash; Engenheiro de Computação
+12-04-2010 17:35
+Primeiro vamos conceituar o que é hacking: É a atitude de hands-on, sharing e learning. O que é diferente do conceito de criminoso digital normalmente associado (q foi depreciado pelo uso incorreto da midia). O hacking engloba qualquer atividade do conhecimento na qual a pessoa se dedique a aprender profundamente e compartilhar conhecimento. Nesse caso o radio-amadorismo, as equipes da poli (robotica, baja, poliGNU, aero etc), os hobbistas de eletronica sao todos hackers. A proposta é um incentivo maior por parte da poli a cultura de hacking, assim como é feito no MIT, onde os alunos sao altamente incentivados a mexer e aprender sobre tecnologia fora das aulas. Ou seja, um espaço com ferramentas e estrutura para que os alunos possam ir no horario fora de aula e mexer com tecnologia, fuçar, quebrar, consertar, aprender. 
+A poli atualmente desencoraja seus alunos a permanecer nas dependencias da escola fora do horario de aula. As bibliotecas fecham somente as 18h (enquanto as aulas acabam as 17h) e durante a noite a escola fica \\\"morta\\\". Imaginemos que os alunos, apos as aulas possam colocar em pratica seus conhecimentos, num espaço comum voltado ao aprendizado.
+
+#1
+Anderson Cardoso
+ &mdash; Engenheiro de Computação
+12-04-2010 16:49
+Dado que todo o engenheiro deverá trabalhar constantemente com computadores, o dominio destes é imprescindível. Entao no bienio deveria-se ter mais disciplinas na area de computaçao que façam com que nosso engenheiros politecnicos estejam mais preparados para a nova era. 
+Lembrando que a unica ferramenta real, e ideal, para o aprendizado sobre computacao é o uso de software livre. O beneficio do trabalho com software livre por parte dos estudandtes, é evidente e facilmente verificavel (já que ninguem é capaz de aprender de fato sobre seu sistema se nao eh capaz de ter acesso livre ao seu codigo) portanto nao me demorarei discursando sobre isso (qualquer interessado pode encontrar inumeros textos sobre o assunto pela internet, recomendo fortemente os textos de Cezar Taurion, diretor de novas tencologias da IBM do brasil).
