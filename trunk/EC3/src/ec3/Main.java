@@ -36,7 +36,7 @@ import java.util.regex.Pattern;
         "Content-Type", "application/x-www-form-urlencoded"
 		'If-Modified-Since', 'Thu, 01 Jan 1970 00:00:00 GMT'
 */
-
+//TODO: getfromnet vir na linha de comando
 public class Main {
         public static String baseaddr = new String("http://www8.poli.usp.br");
         public static boolean getfromnet = true;
@@ -83,7 +83,7 @@ public class Main {
                    }           	   
             	   
                    System.out.println("Recording");
-                   doRecord( (i+1)+".txt",result);
+                   doRecord( "./out/" + (i+1)+".txt",result);
                }                
         }        
         //se fromInternet = true, obtem o conteudo de addr e salva em fname
