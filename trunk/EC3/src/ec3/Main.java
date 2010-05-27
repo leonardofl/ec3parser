@@ -43,7 +43,7 @@ public class Main {
 		//get files from net or from the disk?? useful while testing..
         
         public static void main(String[] args) {
-        		boolean getfromnet = false;
+        		boolean getfromnet = true;
         		String result = null;        	
         		//string used to show information on console
         		String verb = getfromnet?new String("Downloading "):new String("Obtaining from disk ");
@@ -71,7 +71,7 @@ public class Main {
                    result = Formatter.separateComments2(result);
                    
                    //OBTÉM "PARTES AJAX"
-                   for(int j=2;j<=size && j>100;j++){
+                   for(int j=2;j<=size;j++){
                 	   System.out.println(verb + "part "+j+ " from session "+session_id);
                 			   
                 	   String sub_result=null;
@@ -93,7 +93,8 @@ public class Main {
         	if(fname.charAt(0)!='/')
         		fname="./html/"+fname;
         	else
-        		fname+="./html"+fname;
+        		fname="./html"+fname;
+
         	
         	if(fromInternet == false){
         		result = doFileReading(fname);
