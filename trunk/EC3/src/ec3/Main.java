@@ -52,6 +52,7 @@ public class Main {
 		try {
 			writer = new FileWriter(file);
 			writer.write(result);
+			writer.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
